@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 287,
+    "collapsed": true
   },
   "right": {
     "id": "38c4d87542ef543c",
@@ -89,7 +90,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "294606fe01dbd065",
+  "active": "7857883d37253d91",
   "lastOpenFiles": [
     "Linux/USB - File system - Encryption.md",
     "Linux/Fresh install - Clean install - Dotfiles.md",
