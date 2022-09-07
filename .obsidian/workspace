@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "1c1b20fdca04c4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "294606fe01dbd065",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/VPN - Internet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "795ed768b4c00e3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "272479daa245a1fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd64a31eaebca95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7857883d37253d91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16afa24008c420e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/VPN - Internet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bac72b372f65baf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "right": {
+    "id": "38c4d87542ef543c",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "294606fe01dbd065",
+  "lastOpenFiles": [
+    "Linux/USB - File system - Encryption.md",
+    "Linux/Fresh install - Clean install - Dotfiles.md",
+    "Linux/Window manager - Fonts.md",
+    "Linux/VPN - Internet.md",
+    "Linux/Software - Programs - Viewer - Editor.md",
+    "Linux/Screen - Sleep - Lock.md",
+    "Learn/Python - Django.md",
+    "Linux/Keyring.md",
+    "Linux/Keyboard - Mouse.md",
+    "Linux/GPU - CPU Acceleration.md"
+  ]
+}

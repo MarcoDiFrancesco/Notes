@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "lineWrap": true,
+  "autoPairBrackets": true,
+  "tabSize": 2,
+  "attachmentFolderPath": "assets"
+}
