@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "1c1b20fdca04c4a0",
+    "id": "18280bfdc7407dc5",
     "type": "split",
     "children": [
       {
-        "id": "294606fe01dbd065",
+        "id": "0470120ea681d5bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/VPN - Internet.md",
+            "file": "Linux/Fresh install - Clean install - Dotfiles.md",
             "mode": "source",
             "source": false
           }
@@ -19,88 +19,104 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "795ed768b4c00e3c",
-    "type": "split",
+    "id": "58ddd15d21e2da2f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "272479daa245a1fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fd64a31eaebca95",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7857883d37253d91",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "16afa24008c420e5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Linux/VPN - Internet.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5bac72b372f65baf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "68e1313c48ca3ea1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a8f8e1b1b2ac7b2e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
+      },
+      {
+        "id": "2967045a6f20e026",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1bf77bcddca64a48",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 287,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "38c4d87542ef543c",
-    "type": "split",
-    "children": [],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "id": "27ec9bcd238715b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2917da8944a5982a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Linux/Fresh install - Clean install - Dotfiles.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b8fe27440905064",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Linux/Fresh install - Clean install - Dotfiles.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e0b08e905f7fe68b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Linux/Fresh install - Clean install - Dotfiles.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
   },
-  "active": "7857883d37253d91",
+  "active": "0470120ea681d5bd",
   "lastOpenFiles": [
-    "Linux/USB - File system - Encryption.md",
-    "Linux/Fresh install - Clean install - Dotfiles.md",
-    "Linux/Window manager - Fonts.md",
-    "Linux/VPN - Internet.md",
-    "Linux/Software - Programs - Viewer - Editor.md",
-    "Linux/Screen - Sleep - Lock.md",
-    "Learn/Python - Django.md",
-    "Linux/Keyring.md",
-    "Linux/Keyboard - Mouse.md",
-    "Linux/GPU - CPU Acceleration.md"
+    "Hello.md",
+    "2022-09-07.md",
+    "Helloo.md"
   ]
 }
