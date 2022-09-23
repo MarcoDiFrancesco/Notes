@@ -1,0 +1,1 @@
+Latex $x=0$ is 
