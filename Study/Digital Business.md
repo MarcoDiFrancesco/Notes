@@ -1,8 +1,6 @@
 # Digital Business
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37876&section=1) (login to see links)
-
 [EITOnline](https://ieonline.eitdigital.eu/my/)
-
 [Drive](https://drive.google.com/drive/folders/19rQX8E3LLSMw64Dg2H3reNLYqgbI9P1S) group assignments
 
 Exam structure:
@@ -10,10 +8,9 @@ Exam structure:
 - 50% personal
 - 50% group: 12-15 pages excluding cover, ToC, references, appendices
 	- Phase 1: Not graded, 1/4 to 1/3 of final report: 3/5 pages, ~4 hours
-	- Phase 2: Not graded, 2/3 to 3/4 of final report: 8/11 pages, ~6 hours
+	- [ ] Phase 2: Not graded, 2/3 to 3/4 of final report: 8/11 pages, ~6 hours
 
-## Add to assignmetn
-
+## Add to assignment
 -   How are the partners of out company?
     -   Value proposition canvas: will be second part of our assignment
 
@@ -25,9 +22,27 @@ Exam structure:
     
 -   The CEO was able to peruit opportunity **without regarding the money**/resourses he had. He was stubborn and didn't listen to people telling him that was not feasible.
     
+
 -   Bad ideas
-    
+
+![[Pasted image 20220923185430.png]]
+
+
+
+
     -   The founders were able to **turn problems** into opportunities.
+    ![[Pasted image 20220923184340.png]]
+
+.attachments
+
+
+
+![[Pasted image 20220923185039.png]]
+
+
+
+![[Pasted image 20220923185044.png]]
+    
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21d77d71-93a4-4e56-a773-7e45a888d214/Untitled.png)
     
