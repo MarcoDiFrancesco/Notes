@@ -18,14 +18,9 @@ Exam structure:
 
 ### **Opportunity Recognition**
 
--   **Attitude** on the founds was very strong, for this reason they were able to involve a lot of people. As described by the Slush speaker, the CEO NAME, had a lot of energy and a big ego, thing that led him involving multiple partners. Left one says he is stubborn, does not like to get advices; right one is the couriosity.
-    
--   The CEO was able to peruit opportunity **without regarding the money**/resourses he had. He was stubborn and didn't listen to people telling him that was not feasible.
-
-![[Pasted image 20220923190059.png]]
-    ![[Pasted image 20220923190023.png]]
-    ![[Pasted image 20220923190026.png]]
-![[Pasted image 20220923185824.png]]
+- **Attitude** on the founds was very strong, for this reason they were able to involve a lot of people. As described by the Slush speaker, the CEO NAME, had a lot of energy and a big ego, thing that led him involving multiple partners. Left one says he is stubborn, does not like to get advices; right one is the couriosity.
+- The CEO was able to persuit opportunity **without regarding the money**/resourses he had. He was stubborn and didn't listen to people telling him that was not feasible.
+![[Pasted image 20220923191955.png]]
 -   Bad ideas
 
 ![[Pasted image 20220923185510.png]]
