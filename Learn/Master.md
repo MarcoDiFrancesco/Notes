@@ -12,17 +12,11 @@ Insurance [link](https://academy.eitdigital.eu/SITE/PRIVATE/GO/article.aspx?id=1
 
 ### Summer school
 [link](https://summerschool.eitdigital.eu/admission-and-costs)
-
 2 weeks of projects (they were mostly 11 days in 2022)
-
 Period 2022: 4 Jul - 26 Aug
-
-Free and mandatory for EIT Digital student, we will have a spot
-
 We receive information in January 2023
 
 ### Kick-off event
-
 1. SiWeGO: Uber for shipping goods
 app is ready, needs marketing to go to maket
 2. Embneusys PC: iot for construction, mining defence
@@ -66,14 +60,12 @@ market analysis and feasibility
 ![Untitled](Master/Untitled.png)
 
 ## Data
-
 - 1/3 of the students get a job before graduating
 - 70% salary above 40K euros/year, 14% makes 71K euros/year
 
 ![Untitled](Master/Untitled%201.png)
 
 ## Change exit university
-
 FAQ: Can I change or defer the study offer?
 [faq](https://academy.eitdigital.eu/SITE/PRIVATE/GO/article.aspx?id=82)
 [change of exit university page](https://academy.eitdigital.eu/SITE/PRIVATE/GO/article.aspx?id=137)
@@ -83,93 +75,74 @@ FAQ: Can I change or defer the study offer?
 *Decisions will be communicated in mid-February.*
 
 *The application will ask for the following:*
-
 - *Your application ID*
 - *The exit university to which you would like to change*
 - *A statement explaining why you wish to change your assigned exit (300 words or less).*
 
-## EIT
 
-Digital school ([https://masterschool.eitdigital.eu/admissions-and-fees](https://masterschool.eitdigital.eu/admissions-and-fees))
+### Motivation letter
+- main goal is to show excitement
+- we need to say if we had entepreneural experiences
+- max 2 pages, there shouldn’t be too many details
 
-Deadline: 11th April 2022 - 17:00 CEST
+Structure:
 
-Results: 25th May 2022
+Intro: ~ half page
 
-University starts on: August or September depending on the university 
+- [x]  Universtity
+- [x]  Working at FBK since January 2020
+- Kidney
+- Nowcasting, brought in the thesis
+- [x]  WebValley tutor
+- [x]  Last semester I was selected to partecipate in the AI Challenge. Multidisciplinary experience, developing an AI system to ... . Thanks to the collaboration of students from 4 different engineering and scientific backgrounds we were awarded the third place for developing an AI...
+- [x]  Entepreneural part: we accessed the problem with the company, during multiple iterations we set the grounds and accessed the best way to solve the problem we had...
+- [x]  This semester I was selected to join the School of Innovation, where
+- Master exams: I attended one master exam, and currently studying four exams in this field
+- Despite me having a background .. I want to deepen my knowledge in ...
+- What are my plans in the future
+- Maybe write a paragraph about a specific university, especially about the exit university.
 
-Fees: ([link](https://academy.eitdigital.eu/SITE/PRIVATE/GO/article.aspx?id=160)) paid by deadline, received by 24 April, deposit 6th June. When paid check application portal, it is updated once every week week, usually on tuesday.
+Interests and conclusion: ~ haf page
 
-Tuition: 3.000 EUR
+### Business idea
 
-Attachments: Attach file with relevant courses taken
+- add business side of the idea
+- add target market, not a full business plan
 
-- Application documentation
-    
-    ### Motivation letter
-    
-    - main goal is to show excitement
-    - we need to say if we had entepreneural experiences
-    - max 2 pages, there shouldn’t be too many details
-    
-    Structure:
-    
-    Intro: ~ half page
-    
-    - [x]  Universtity
-    - [x]  Working at FBK since January 2020
-        - Kidney
-        - Nowcasting, brought in the thesis
-    - [x]  WebValley tutor
-    - [x]  Last semester I was selected to partecipate in the AI Challenge. Multidisciplinary experience, developing an AI system to ... . Thanks to the collaboration of students from 4 different engineering and scientific backgrounds we were awarded the third place for developing an AI...
-        - [x]  Entepreneural part: we accessed the problem with the company, during multiple iterations we set the grounds and accessed the best way to solve the problem we had...
-    - [x]  This semester I was selected to join the School of Innovation, where
-    - Master exams: I attended one master exam, and currently studying four exams in this field
-    - Despite me having a background .. I want to deepen my knowledge in ...
-    - What are my plans in the future
-    - Maybe write a paragraph about a specific university, especially about the exit university.
-    
-    Interests and conclusion: ~ haf page
-    
-    ### Business idea
-    
-    - add business side of the idea
-    - add target market, not a full business plan
-    
-    ### CV
-    
-    - Write that was Part-time (my idea)
-    - Add english test
-    
-    ### Video
-    
-    [EIT [[EIT Video]]
-    
-    ### Reccomendation letter
-    
-    - can be from work or accademic, not only about work
-    
-    Criteria:
-    
-    - suitability of bachelor degree
-    - accademic excelence - ranking university
-    - entepreneural excelence
-    - innovative potential
+### CV
+
+- Write that was Part-time (my idea)
+- Add english test
+
+### Video
+
+[EIT [[EIT Video]]
+
+### Reccomendation letter
+
+- can be from work or accademic, not only about work
+
+Criteria:
+
+- suitability of bachelor degree
+- accademic excelence - ranking university
+- entepreneural excelence
+- innovative potential
 - Manufacturing: Data Analysis and AI for competitive manufacturing
-    
-    [link](https://www.eitmanufacturing.eu/what-we-do/education/education-programmes/empower-programme/master-school/)
-    
-    Deadline: 1st March 2022
-    
-    Tuition: 8.000 EUR
-    
+
+[link](https://www.eitmanufacturing.eu/what-we-do/education/education-programmes/empower-programme/master-school/)
+
+Deadline: 1st March 2022
+
+Tuition: 8.000 EUR
+
 - Summer school
-    
-    2 weeks of projects
-    
-    Free and mandatory for EIT Digital student
-    
-    https://summerschool.eitdigital.eu/admission-and-costs
+
+2 weeks of projects
+
+Free and mandatory for EIT Digital student
+
+https://summerschool.eitdigital.eu/admission-and-costs
     
 
 ### EIT Universities
