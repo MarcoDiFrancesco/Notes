@@ -13,7 +13,7 @@ Exam structure:
 -   How are the partners of out company?
     -   Value proposition canvas: will be second part of our assignment
 
-# Assignment
+## Assignment
 
 ### **Opportunity Recognition**
 - **Attitude** on the founds was very strong, for this reason they were able to involve a lot of people. As described by the Slush speaker, the CEO NAME, had a lot of energy and a big ego, thing that led him involving multiple partners. Left one says he is stubborn, does not like to get advices; right one is the couriosity.
