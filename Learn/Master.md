@@ -1,17 +1,14 @@
-# Master - EIT - Fees
+# Master
 
 Archived: No
 Tags: Chores
 
 Exams
-
-[Master courses - [[Master courses exams]]
+[[Master courses exams]]
 
 Universities
-
-[Master [[Master Aalto]]
-
-[Master [[Master Twente]]
+[[Master Aalto]]
+[[Master Twente]]
 
 ## EIT
 
