@@ -56,7 +56,6 @@ propose alternative business model, type of licence
 market analysis and feasibility
 
 ## Graduation cerimony
-
 ![Untitled](Untitled%2021.png)
 
 ## Data
@@ -96,7 +95,7 @@ Data scientist Sweden 55k - PIL pro capite $52k
 
 Look like interesting courses
 
-![Untitled](Untitled 3 1.png
+![[Untitled 3 1.png]]
 
 ### Second year
 
@@ -240,13 +239,9 @@ Website looks trash
 
 
 ~~20-142 Politecnico di Milano - Only entry point~~
-
 ~~440-247 Università di Trento~~
-
 ~~701-? Université Côte d’Azur, Nice~~
-
 ~~801-451 University of Rennes 1, Rennes~~
-
 ~~651-? Eötvös Loránd University, Budapest~~
 
 ## Participation distribution
