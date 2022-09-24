@@ -1,17 +1,12 @@
-# Master
-
+---
 Archived: No
-Tags: Chores
-
-Exams
-[[Master courses exams]]
-
+---
+# Master
 Universities
 [[Master Aalto]]
 [[Master Twente]]
 
 ## EIT
-
 Digital school ([https://masterschool.eitdigital.eu/admissions-and-fees](https://masterschool.eitdigital.eu/admissions-and-fees))
 
 University starts on: August or September depending on the university 
