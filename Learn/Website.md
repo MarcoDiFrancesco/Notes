@@ -1,4 +1,4 @@
-# Website - Ruby
+# Website
 Package installed: `ruby`
 
 Install from gemfile `bundle install`

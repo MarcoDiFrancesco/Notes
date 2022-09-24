@@ -57,14 +57,14 @@ market analysis and feasibility
 
 ## Graduation cerimony
 
-![Untitled](Master/Untitled.png)
+![Untitled](Untitled%2021.png)
 
 ## Data
 - 1/3 of the students get a job before graduating
 - 70% salary above 40K euros/year, 14% makes 71K euros/year
 
 
-![Untitled](Master/Untitled%201.png)
+![Untitled](Untitled%201%201.png)
 
 ## Change exit university
 FAQ: Can I change or defer the study offer?
@@ -81,164 +81,164 @@ FAQ: Can I change or defer the study offer?
 - *A statement explaining why you wish to change your assigned exit (300 words or less).*
 
 
-![Untitled](Master/Untitled%202.png)
+![Untitled](Untitled%202%201.png)
 
 - 89-31-28 KTH Royal Institute of Technology, Stockholm - 1 Year two
-    
-    Sweden
-    
-    975k inhabitants, Stockholm university 33k, KTH 13k
-    
-    Data scientist Sweden 55k - PIL pro capite $52k
-    
-    16% acceptance rate in 2021
-    
-    ### First year
-    
-    Look like interesting courses
-    
-    ![Untitled](Master/Untitled%203.png)
-    
-    ### Second year
-    
-    Specialization in distributed systems and data mining for big data
-    
-    ![[Screenshot_2022-01-22-12-10-29-27_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ![[Screenshot_2022-01-22-12-10-41-04_e2d5b3f32b79de1d45acd1fad96fbb0f~2.jpg]]
-    
+
+Sweden
+
+975k inhabitants, Stockholm university 33k, KTH 13k
+
+Data scientist Sweden 55k - PIL pro capite $52k
+
+16% acceptance rate in 2021
+
+### First year
+
+Look like interesting courses
+
+![Untitled](Untitled%203%201.png)
+
+### Second year
+
+Specialization in distributed systems and data mining for big data
+
+![[Screenshot_2022-01-22-12-10-29-27_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
+
+![[Screenshot_2022-01-22-12-10-41-04_e2d5b3f32b79de1d45acd1fad96fbb0f2.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
+
 - 125-50-58 Eindhoven University of Technology - 1 Year one + 3 Year two
-    
-    Netherlands
-    
-    In the middle of nothing, 231k inhabitants
-    
-    Data scientist paesi bassi 58k - PIL pro capite $52k
-    
-    ### First year
-    
-    Sounds a bit Formentini with that “process”, look at second year’s description.
-    
-    ![Untitled](Master/Untitled%204.png)
-    
-    ![Untitled](Master/Untitled%205.png)
-    
-    ### Second year
-    
-    Does not sound as interesting as KTH, sounds a little bit more abstract with Formentini at the beginning and cool technology not applicable anywhere in the middle.
-    
-    They focus on process instead of general data, for instance they have process mining instead of data mining. Should check if it's like Formentini.
-    
-    Exams are a bit general with only process mining going into depth.
-    
-    ![[Screenshot_2022-01-22-12-17-35-49_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ![[Screenshot_2022-01-22-12-17-41-32_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
+
+Netherlands
+
+In the middle of nothing, 231k inhabitants
+
+Data scientist paesi bassi 58k - PIL pro capite $52k
+
+### First year
+
+Sounds a bit Formentini with that “process”, look at second year’s description.
+
+![Untitled](Untitled%204%201.png)
+
+![Untitled](Untitled%205%201.png)
+
+### Second year
+
+Does not sound as interesting as KTH, sounds a little bit more abstract with Formentini at the beginning and cool technology not applicable anywhere in the middle.
+
+They focus on process instead of general data, for instance they have process mining instead of data mining. Should check if it's like Formentini.
+
+Exams are a bit general with only process mining going into depth.
+
+![[Screenshot_2022-01-22-12-17-35-49_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+![[Screenshot_2022-01-22-12-17-41-32_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
 - 112-116-110 Aalto University, Helsinki - 2 Year one
-    
-    Finland
-    
-    PIL pro capite 49k
-    
-    Data scientist Finland 54k
-    
-    650k inhabitants
-    
-    15% acceptance rate, from external website
-    
-    ### First year
-    
-    Not bad at all. Exams sound interesting but there is mandatory data mining that I may want to do the second year and supervised methods already seen.
-    
-    ![Untitled](Master/Untitled%206.png)
-    
-    ![Untitled](Master/Untitled%207.png)
-    
-    ![Untitled](Master/Untitled%208.png)
-    
-    ### Second year
-    
-    Does not follow a path and has widespread courses. I'm afraid they repeat a lot of things and they don't go in details.
-    
-    ![[Screenshot_2022-01-22-12-43-45-72_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ![[Screenshot_2022-01-22-12-43-52-82_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ![[Screenshot_2022-01-22-12-44-00-12_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
+
+Finland
+
+PIL pro capite 49k
+
+Data scientist Finland 54k
+
+650k inhabitants
+
+15% acceptance rate, from external website
+
+### First year
+
+Not bad at all. Exams sound interesting but there is mandatory data mining that I may want to do the second year and supervised methods already seen.
+
+![Untitled](Untitled%206%201.png)
+
+![Untitled](Untitled%207%201.png)
+
+![Untitled](Untitled%208%201.png)
+
+### Second year
+
+Does not follow a path and has widespread courses. I'm afraid they repeat a lot of things and they don't go in details.
+
+![[Screenshot_2022-01-22-12-43-45-72_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+![[Screenshot_2022-01-22-12-43-52-82_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+![[Screenshot_2022-01-22-12-44-00-12_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
 - 189-126-96 University of Twente, Enshede - 2 Year two
-    
-    Netherlands
-    
-    Border with Germany, 150k inhabitants
-    
-    ### First year
-    
-    Names sounds theoretical, descriptions look practical
-    
-    ![Untitled](Master/Untitled%209.png)
-    
-    ### Second year
-    
-    Sounds a bit more generic than Eindhoven but there is no Formentini and we need to specialize on some type of data.
-    
-    ![[Screenshot_2022-01-22-12-27-17-65_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ![[Screenshot_2022-01-22-12-27-24-17_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
+
+Netherlands
+
+Border with Germany, 150k inhabitants
+
+### First year
+
+Names sounds theoretical, descriptions look practical
+
+![Untitled](Untitled%209%201.png)
+
+### Second year
+
+Sounds a bit more generic than Eindhoven but there is no Formentini and we need to specialize on some type of data.
+
+![[Screenshot_2022-01-22-12-27-17-65_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+![[Screenshot_2022-01-22-12-27-24-17_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
 - ~~295-? University of Turku - Y1 Y2 - 3 Year one~~
-    
-    Finland
-    
-    200k inhabitants
-    
-    ### First year
-    
-    Looks theoretical and not too bad.
-    
-    ![[Screenshot_2022-01-03-19-17-26-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ### ~~Second year~~
-    
-    No. Medical data science.
-    
-    ![[Screenshot_2022-01-22-12-57-25-44_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ![[Screenshot_2022-01-22-12-57-29-22_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
+
+Finland
+
+200k inhabitants
+
+### First year
+
+Looks theoretical and not too bad.
+
+![[Screenshot_2022-01-03-19-17-26-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+### ~~Second year~~
+
+No. Medical data science.
+
+![[Screenshot_2022-01-22-12-57-25-44_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+![[Screenshot_2022-01-22-12-57-29-22_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
 - ~~89-287 Université Paris-Saclay - Y1 Y2~~
-    
-    France
-    
-    ### First year
-    
-    ![[Screenshot_2022-01-22-13-08-11-04_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ### Second year
-    
-    ![Untitled](Master/Untitled%2010.png)
-    
+
+France
+
+### First year
+
+![[Screenshot_2022-01-22-13-08-11-04_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+### Second year
+
+![Untitled](Untitled%2010%201.png)
+
 - ~~459-75 Universidad Politécnica de Madrid - Y1 Y2~~
-    
-    Technical University of Madrid (UPM)
-    
-    PIL pro capite 27k
-    
-    Data scientist salary 35k
-    
-    ### First year
-    
-    Too little machine learning, cognitive systems sounds too sociological
-    
-    Website looks trash
-    
-    ![[Screenshot_2022-01-03-19-04-56-87_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
-    ### Second year
-    
-    ![[Screenshot_2022-01-22-13-00-15-10_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
-    
+
+Technical University of Madrid (UPM)
+
+PIL pro capite 27k
+
+Data scientist salary 35k
+
+### First year
+
+Too little machine learning, cognitive systems sounds too sociological
+
+Website looks trash
+
+![[Screenshot_2022-01-03-19-04-56-87_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
+### Second year
+
+![[Screenshot_2022-01-22-13-00-15-10_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+
 
 ~~20-142 Politecnico di Milano - Only entry point~~
 
@@ -267,15 +267,15 @@ Twente vs Eindhoven: *Living is an important factor and that is here i found Uni
 
 Expenditure by student in tertiary education in euros ([link](https://ec.europa.eu/eurostat/databrowser/view/EDUC_UOE_FINI04__custom_2067655/default/map?lang=en))
 
-![Untitled](Master/Untitled%2011.png)
+![Untitled](Untitled%2011%201.png)
 
 Expenditure by student in tertiary education in euros ([link](https://ec.europa.eu/eurostat/databrowser/view/EDUC_UOE_FINI04__custom_2067655/default/bar?lang=en))
 
-![Untitled](Master/Untitled%2012.png)
+![Untitled](Untitled%2012%201.png)
 
 GDP per capita PPP ([link](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2021&locations=SE-CH-NO-FI-NL-IT-DE&start=1990))
 
-![Untitled](Master/Untitled%2013.png)
+![Untitled](Untitled%2013%201.png)
 
 ## Other universities
 
