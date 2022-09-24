@@ -96,7 +96,7 @@ Data scientist Sweden 55k - PIL pro capite $52k
 
 Look like interesting courses
 
-![Untitled](Untitled%203%201.png)
+![Untitled](Untitled 3 1.png
 
 ### Second year
 
@@ -130,9 +130,9 @@ They focus on process instead of general data, for instance they have process mi
 
 Exams are a bit general with only process mining going into depth.
 
-![[Screenshot_2022-01-22-12-17-35-49_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-17-35-49_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
-![[Screenshot_2022-01-22-12-17-41-32_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-17-41-32_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 - 112-116-110 Aalto University, Helsinki - 2 Year one
 
@@ -160,11 +160,11 @@ Not bad at all. Exams sound interesting but there is mandatory data mining that 
 
 Does not follow a path and has widespread courses. I'm afraid they repeat a lot of things and they don't go in details.
 
-![[Screenshot_2022-01-22-12-43-45-72_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-43-45-72_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
-![[Screenshot_2022-01-22-12-43-52-82_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-43-52-82_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
-![[Screenshot_2022-01-22-12-44-00-12_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-44-00-12_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 - 189-126-96 University of Twente, Enshede - 2 Year two
 
@@ -182,9 +182,9 @@ Names sounds theoretical, descriptions look practical
 
 Sounds a bit more generic than Eindhoven but there is no Formentini and we need to specialize on some type of data.
 
-![[Screenshot_2022-01-22-12-27-17-65_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-27-17-65_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
-![[Screenshot_2022-01-22-12-27-24-17_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-27-24-17_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 - ~~295-? University of Turku - Y1 Y2 - 3 Year one~~
 
@@ -196,15 +196,15 @@ Finland
 
 Looks theoretical and not too bad.
 
-![[Screenshot_2022-01-03-19-17-26-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-03-19-17-26-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 ### ~~Second year~~
 
 No. Medical data science.
 
-![[Screenshot_2022-01-22-12-57-25-44_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-57-25-44_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
-![[Screenshot_2022-01-22-12-57-29-22_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-12-57-29-22_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 - ~~89-287 Université Paris-Saclay - Y1 Y2~~
 
@@ -212,7 +212,7 @@ France
 
 ### First year
 
-![[Screenshot_2022-01-22-13-08-11-04_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-13-08-11-04_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 ### Second year
 
@@ -232,11 +232,11 @@ Too little machine learning, cognitive systems sounds too sociological
 
 Website looks trash
 
-![[Screenshot_2022-01-03-19-04-56-87_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-03-19-04-56-87_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 ### Second year
 
-![[Screenshot_2022-01-22-13-00-15-10_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg]]
+![[Screenshot_2022-01-22-13-00-15-10_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
 
 
 ~~20-142 Politecnico di Milano - Only entry point~~
@@ -276,137 +276,3 @@ GDP per capita PPP ([link](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.C
 
 ![Untitled](Untitled%2013%201.png)
 
-## Other universities
-
-Ranked by: [link](https://www.topuniversities.com/university-rankings/university-subject-rankings/2020/engineering-technology)
-
-- 29 - TUM Technische Universität München: Data Engineering and Analytics
-    
-    Deadline 31/05
-    
-    There is no machine learning, only data course [link](https://www.in.tum.de/en/current-students/masters-programs/data-engineering-and-analytics/curriculum.html)
-    
-    Requirement: scientific essay [link](https://www.in.tum.de/en/for-prospective-students/apply-for-admission/masters-programs/data-engineering-and-analytics/)
-    
-    Acceptance rate: 8%
-    
-- 51 - Rwth Aachen: Data Science
-    
-    Open to everyone, even to international students
-    
-    15th July
-    
-- 173 - LMU Ludwig Maximilian University of Munich: Data Science
-    
-    [link](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html)
-    
-    Website is horrible but universtiy should be very good
-    
-    Deadline not found, applications opening 20 April
-    
-    Application should be here somewhere [link](https://efv-datascience.ifi.lmu.de/)
-    
-    Requirement: 1000 words essay
-    
-- 221 - Utrecht University
-    
-    Courses ([link](https://www.uu.nl/masters/en/artificial-intelligence/courses)) there are very little mandatory courses
-    
-    Deadlines: 1 June
-    
-    Fees: 100 euros
-    
-- 600 - Bolzano
-    
-    [link](https://www.unibz.it/en/faculties/computer-science/master-computational-data-science/)
-    
-    Computational Data Science
-    
-    Application deadline: 07/07/2022 (by noon local time)
-    
-- Innsbruck
-    
-    Deadline 31 Ottobre https://www.uibk.ac.at/studium/organisation/studium/index.html.en#dates
-    
-- Luxembourg
-- ~~4 - ETH (Bozzo)~~
-    
-    Deadline: 30th April
-    
-    Fees: CHF 150
-    
-- ~~11 - EPFL Lausanne: Data Science~~
-    
-    Be aware that **admission is competitive**. Only candidates with excellent academic records and references have good chances of being accepted.
-    
-    Deadline: 15th April
-    
-    Fees: CHF 150
-    
-- ~~30 - KTH Royal Institute of Technology: Machine Learning (Bozzo)~~
-    
-    Deadline for all documents 1st February
-    
-- ~~68 - KIT Karlsruhe Institute of Technology~~
-    
-    Are they even a university?
-    
-- ~~79 - Univestity of Copenhagen: Social Data Science~~
-    
-    It’s social
-    
-- ~~121 - Technische Universität Dresden: Data Science~~
-    
-    Tought in german
-    
-- ~~142 - Aalto~~
-    
-    Application closed in January [link](https://www.aalto.fi/en/study-options?degreeType=masters&search=data)
-    
-- ~~260 - Heidelberg University Germany: Data and Computer Science~~
-    
-    Courses not found in english
-    
-- ~~255 - University of Helsinki (Bozzo)~~
-    Deadline in January
-    
-- ~~? - University of Monaco: DS not found (Bozzo)~~
-    
-    
-
-To check:
-
-- University of Magdeburg
-- TU Dortmund
-- University of Mannheim
-- University of Hildesheim
-- University of Applied Sciences Darmstadt
-- Leuphana University of Luneburg
-- University of Gottingen
-- Frankfurt School of Finance and Management
-
-## UniTrento abroad
-
-Unitn website ([https://international.unitn.it/outgoing/open-selection-calls](https://international.unitn.it/outgoing/open-selection-calls))
-
-**Double degree (year abroad)**
-
-- DISI has only 2 options in Computer science and they are not interesting, they both require to be enorolled in the second year of the master degree when leaving
-- Deadline is in January, mobility from August
-
-**BIlateral agreements (semester abroad)**
-
-- C1 by cla is required everywhere, some require additional certification like toefl, ielts
-
-Admission criteria *Erasmus?*
-
-- 70% Video motivazionale, progetto di studi all’estero ed eventuale colloquio
-- 30% Media ponderata dei voti registrati in carriera entro il 31 ottobre 2021 o voto del titolo di studio del ciclo precedente
-
-Scolarship
-
-- ISEE must be sent before the application deadline
-
-734042419826
-
-17 students: 4 First year, 13 Exit year
