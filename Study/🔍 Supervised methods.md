@@ -1,9 +1,3 @@
----
-Credits: 5
-Notes: No
-Status: Studying
-Year: 4
----
 # 🔍 Supervised methods
 
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37029&section=2)
@@ -176,8 +170,8 @@ TPR can be replaced by Precision, so that in the rare diseese examle works bette
 **Independent and identically distributed** (i.i.d) is an assumption where we generate data with the random variables having the same probability distribution
 
 Given:
-Concept class (C) that needs to be learned $C: X \rightarrow Y$
-Unknown probability distribution (D)
+- Concept class (C) that needs to be learned $C: X \rightarrow Y$
+- Unknown probability distribution (D)
 
 ![Untitled](Untitled%2017.png)
 
