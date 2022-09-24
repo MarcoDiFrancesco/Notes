@@ -83,7 +83,9 @@ $$
 
 ![[Untitled 5.png|400]]
 
-Moved to -> L
+**Cost function** is a type of objective function, it measures the error between what value your model predicts and what the value actually is. An example can be the sum of loss functions over your training set, plus regularization.
+
+Moved to -> Loss function
 
 **Activation function** decide whether the neuron should be activated or not. Usually there is 1 activation function for all the hidden layers and a different one for the output layer.
 
@@ -96,7 +98,6 @@ Moved to -> L
 **L1** loss funciton, aka Mean Absolute Error (MAE), is the absolute difference between real value and the predicted one. **L2** loss, aka Mean Squared Error (MSE), is this value squared. Practically L2 is almost always the prefered option for regression problems, but with outliers L1 performs better.
 
 ## Loss function
-
 **Loss function** (L) measures the discrepancy between outputs y and y’
 
 **Generalization error** (aka out-of-sample error) is the real error of the probabilty distribution
