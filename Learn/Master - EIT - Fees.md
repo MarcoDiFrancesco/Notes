@@ -55,9 +55,6 @@ propose alternative business model, type of licence
 19. LEO Satellites: still looking for mvp satellites
 market analysis and feasibility
 
-## Graduation cerimony
-![[Untitled 21.png]]
-
 ## Data
 - 1/3 of the students get a job before graduating
 - 70% salary above 40K euros/year, 14% makes 71K euros/year
