@@ -1,7 +1,12 @@
-.math-block > mjx-container > mjx-math {
-  font-size: 150% !important;
+/* Inline equation */
+.math > mjx-container {
+  font-size: 120% !important;
 }
 
-.math > mjx-container {
-    font-size: 90% !important;
+/* Block equation
+Increases zoom both from .math and .math-block
+e.g. 120% + 150% = 180%
+*/
+.math-block > mjx-container > mjx-math {
+  font-size: 150% !important;
 }

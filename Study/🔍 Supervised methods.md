@@ -49,7 +49,7 @@ Grading:
 
 ## Machine learning
 
-**Machine Learning** is the study of algorithms that: at some task T, improve their performance P, with experience E. A well-defined learning task is given by a triplet <T, P, E>. Learning is about generalizing from the training data to un unseen target domain.
+**Machine Learning** is the study of algorithms that: at some task T, improve their performance P, with experience E. A well-defined learning task is given by a triplet $<T, P, E>$. Learning is about generalizing from the training data to un unseen target domain.
 
 X is the input and Y is the output
 
