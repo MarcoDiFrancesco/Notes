@@ -77,29 +77,12 @@ FAQ: Can I change or defer the study offer?
 
 ![[Untitled 2 1.png|300]]
 
+### Universities
 - 89-31-28 KTH Royal Institute of Technology, Stockholm - 1 Year two
-
-Sweden
-
-975k inhabitants, Stockholm university 33k, KTH 13k
-
-Data scientist Sweden 55k - PIL pro capite $52k
-
-16% acceptance rate in 2021
-
-### First year
-
-Look like interesting courses
-
-![[Untitled 3 1.png]]
-
-### Second year
-
-Specialization in distributed systems and data mining for big data
-
-![[Screenshot_2022-01-22-12-10-29-27_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
-
-![[Screenshot_2022-01-22-12-10-41-04_e2d5b3f32b79de1d45acd1fad96fbb0f2.jpg.jpg.jpg.jpg.jpg.jpg.jpg]]
+	Sweden
+	975k inhabitants, Stockholm university 33k, KTH 13k
+	Data scientist Sweden 55k - PIL pro capite $52k
+	16% acceptance rate in 2021
 
 - 125-50-58 Eindhoven University of Technology - 1 Year one + 3 Year two
 
