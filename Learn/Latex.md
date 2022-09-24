@@ -1,17 +1,17 @@
 # Latex
-Normal:
+`\math` (normal):
 $$
 RQSZ
 $$
-Cal ():
+`\mathcal` (calligraphic):
 $$
 \mathcal{RQSZ}
 $$
-Frak (dominating number?):
+`\mathfrak` (dominating number?):
 $$
 \mathfrak{RQSZ}
 $$
-BB (blackboard):
+bb (blackboard):
 $$
 \mathbb{RQSZ}
 $$
