@@ -56,14 +56,13 @@ propose alternative business model, type of licence
 market analysis and feasibility
 
 ## Graduation cerimony
-![Untitled](Untitled%2021.png)
+![[Untitled 21.png]]
 
 ## Data
 - 1/3 of the students get a job before graduating
 - 70% salary above 40K euros/year, 14% makes 71K euros/year
 
-
-![Untitled](Untitled%201%201.png)
+![[Untitled 1 1.png]]
 
 ## Change exit university
 FAQ: Can I change or defer the study offer?
