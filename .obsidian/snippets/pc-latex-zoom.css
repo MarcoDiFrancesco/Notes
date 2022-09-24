@@ -1,3 +1,7 @@
-mjx-math {
+.math-block > mjx-container > mjx-math {
   font-size: 150% !important;
+}
+
+.math > mjx-container {
+    font-size: 90% !important;
 }
