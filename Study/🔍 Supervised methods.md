@@ -4,7 +4,7 @@ Notes: No
 Status: Studying
 Year: 4
 ---
-# Supervised methods
+# 🔍 Supervised methods
 
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37029&section=2)
 

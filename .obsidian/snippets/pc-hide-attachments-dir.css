@@ -1,0 +1,4 @@
+div[data-path="_attachments"],
+div[data-path="_attachments"] + div.nav-folder-children {
+  display: none;
+}
