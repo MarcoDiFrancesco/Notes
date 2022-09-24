@@ -53,17 +53,25 @@ Grading:
 
 X is the input and Y is the output
 
-![[Untitled.png|150]]
+$$
+f: X\to Y
+$$
 
 F task is the space where all the possible functions lie, f is one of these functions
 
-![[Untitled 1.png|150]]
+$$
+{F}_{task}\subset{Y}^{X}
+$$
 
-f is the function in F task that allows to get che best value f*
+$f$ is the function in $F_{task}$ that allows to get che best value $f^*$
 
 **Objective function** computes how well the optimization worked. It's defined either by the probabilty distribution of data or by the hypotesis space H.
 
 ![[Untitled 2.png]]
+
+$$
+\math{argmin} \!w\!\ln_{w,b}\sum_{i=1}^{n}\!J o S\!(y y^{\dagger})\!+\!\lambda\,\,r e g u l a r i z e r(w,b)
+$$
 
 ![[Untitled 3.png|300]]
 
@@ -105,14 +113,18 @@ f is the function in F task that allows to get che best value f*
 
 **Empirical risk** (R) approximates the generalization error of the model by computing the average of the losses of the individual instances
 
-![Untitled](Untitled%206.png)
+$$
+\hat{R}(h)=\frac{1}{m}\sum_{i=1}^{m}L(h(x_{i}),y_{i})
+$$
 
 Loss function depend on the task:
 - **Squared loss** for regression
 - **0-1 loss** for classification, hinge loss as alternative for mathematical properies
 - **Hamming loss** used in multilabel, it’s a 0-1 loss but uses XOR instead of AND, so that true negative contribute
 
-![Untitled](Untitled%207.png)
+$$
+R(h)=\mathbb{E}_{(\mathbf{x},y)\sim D}\left[\,L(h(\mathbf{x}),y\,\right)\,]
+$$
 
 ## Binary classification
 
@@ -127,23 +139,24 @@ Binary classification includes:
 ![[Untitled 9.png|400]]
 
 ## Confusion matrix
-
 **Confusion matrix** is a kind of contingency table used to visualize performance of a supervised learning algorithm
 
 Metrics:
-
 - **Precision** (aka Positive Predictive Value): flagging legit emails (FP) as spam is a problem, better to have some spam (FN) in the inbox
 
-![Untitled](Untitled%2010.png)
-
+$$
+\mathrm{PPV}={\frac{\mathrm{TP}}{\mathrm{TP}+\mathrm{FP}}}
+$$
 - **Recall** (aka Sensitivity): factory that needs to find all faults, so FP are not a problem; rare diseese we must find everyone, so FP are not a problem
 
-![Untitled](Untitled%2011.png)
+$$
+\mathrm {TPR} ={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FN} }}
+$$
 
 - **F1 score**
-
-![Untitled](Untitled%2012.png)
-
+$$
+\mathrm {F} _{1}={\frac {2\mathrm {TP} }{2\mathrm {TP} +\mathrm {FP} +\mathrm {FN} }}
+$$
 
 ![Untitled](Untitled%2013.png)
 
@@ -155,7 +168,7 @@ Multiclass classification confusion matrix is a way to show how many times each 
 
 ROC Curve summarizes the trade-off beween TPR and FPR. Same TPR means leftmost point is better, depending on how many FP we want we can choose the leftmost of the 3 points or of the 2 points.
 
-![Untitled](Untitled%2015.png)
+![[Untitled 15.png|400]]
 
 TPR can be replaced by Precision, so that in the rare diseese examle works better.
 
@@ -165,7 +178,9 @@ TPR can be replaced by Precision, so that in the rare diseese examle works bette
 
 **Generalization error** (R) of an hypothesis class (h)
 
-![Untitled](Untitled%2016.png)
+$$
+R(h)=\mathbb{E}_{(\mathbf{x},y)\sim D}\left[\,L(h(\mathbf{x}),y\,)\,\right]
+$$
 
 **Independent and identically distributed** (i.i.d) is an assumption where we generate data with the random variables having the same probability distribution
 
@@ -173,7 +188,9 @@ Given:
 - Concept class (C) that needs to be learned $C: X \rightarrow Y$
 - Unknown probability distribution (D)
 
-![Untitled](Untitled%2017.png)
+$$
+R(h)=\mathbb{E}_{x\sim D}\left[L_{0/1}(h(x),C(x))\right]=\operatorname*{Pr}_{x\sim D}(h(x)\neq C(x))
+$$
 
 **Probably Approximate Correct (PAC)** is a learning framework with the goal of learning an hypothesis with a low generalization error
 
@@ -193,11 +210,13 @@ $$
 
 epsilon and *delta meaning*:
 
-![Untitled](Untitled%2018.png)
+![[Untitled 18.png]]
 
 $A_c$ is the event where $R’$ misses at least one rectangle, Each $r_i$ has probability mass $\epsilon / 4$ and probability of missing one rectangle $1 − \epsilon/4$, so with m samples the probability of missing at least one rectangle is:
 
-![Untitled](Untitled%2019.png)
+$$
+P r(A_{C})\leq4(1-\epsilon/4)^{m}
+$$
 
 ![Untitled](Untitled%2020.png)
 
