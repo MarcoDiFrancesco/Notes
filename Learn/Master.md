@@ -7,68 +7,6 @@ Universities
 [[Master Twente]]
 
 ## EIT
-Digital school ([https://masterschool.eitdigital.eu/admissions-and-fees](https://masterschool.eitdigital.eu/admissions-and-fees))
-
-University starts on: August or September depending on the university 
-
-Fees: ([link](https://academy.eitdigital.eu/SITE/PRIVATE/GO/article.aspx?id=160)) paid by deadline, received by 24 April, deposit 6th June. When paid check application portal, it is updated once every week week, usually on tuesday. *It might take up to 9 days for you to get formal payment confirmation once we receive your payment.*
-
-Tuition: 3.000 EUR
-
-Attachments: Attach file with relevant courses taken
-
-- Application documentation
-    
-    ### Motivation letter
-    
-    - main goal is to show excitement
-    - we need to say if we had entepreneural experiences
-    - max 2 pages, there shouldn’t be too many details
-    
-    Structure:
-    
-    Intro: ~ half page
-    
-    - [x]  Universtity
-    - [x]  Working at FBK since January 2020
-        - Kidney
-        - Nowcasting, brought in the thesis
-    - [x]  WebValley tutor
-    - [x]  Last semester I was selected to partecipate in the AI Challenge. Multidisciplinary experience, developing an AI system to ... . Thanks to the collaboration of students from 4 different engineering and scientific backgrounds we were awarded the third place for developing an AI...
-        - [x]  Entepreneural part: we accessed the problem with the company, during multiple iterations we set the grounds and accessed the best way to solve the problem we had...
-    - [x]  This semester I was selected to join the School of Innovation, where
-    - Master exams: I attended one master exam, and currently studying four exams in this field
-    - Despite me having a background .. I want to deepen my knowledge in ...
-    - What are my plans in the future
-    - Maybe write a paragraph about a specific university, especially about the exit university.
-    
-    Interests and conclusion: ~ haf page
-    
-    ### Business idea
-    
-    - add business side of the idea
-    - add target market, not a full business plan
-    
-    ### CV
-    
-    - Write that was Part-time (my idea)
-    - Add english test
-    
-    ### Video
-    
-    [EIT [[EIT Video]]
-    
-    ### Reccomendation letter
-    
-    - can be from work or accademic, not only about work
-    
-    Criteria:
-    
-    - suitability of bachelor degree
-    - accademic excelence - ranking university
-    - entepreneural excelence
-    - innovative potential
-
 ### EIT Universities
 
 Courses pdf [link](https://masterschool.eitdigital.eu/fileadmin/2021/masterschool/EIT-Digital-Master-School-Data-Science-What-can-I-study-at-the-entry-and-exit-points.pdf)
