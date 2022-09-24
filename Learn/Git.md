@@ -6,7 +6,6 @@ _git checkout_ has been splitted to `git switch` and `git restore` [link](https:
 `--` is the argument disambiguation [link](https://git-scm.com/docs/git-checkout#_argument_disambiguation)
 
 ## Files
-
 `git update-index --assume-unchanged <path>` ignore changes of a commited file
 
 `git reset` unstage all files
