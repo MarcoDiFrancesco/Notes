@@ -368,7 +368,6 @@ Ranked by: [link](https://www.topuniversities.com/university-rankings/university
     Courses not found in english
     
 - ~~255 - University of Helsinki (Bozzo)~~
-    
     Deadline in January
     
 - ~~? - University of Monaco: DS not found (Bozzo)~~
