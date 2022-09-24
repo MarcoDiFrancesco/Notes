@@ -1,7 +1,7 @@
 ---
 Archived: No
 ---
-# Master
+# Master - EIT - Fees
 Universities
 [[Master Aalto]]
 [[Master Twente]]
@@ -80,8 +80,7 @@ FAQ: Can I change or defer the study offer?
 - *The exit university to which you would like to change*
 - *A statement explaining why you wish to change your assigned exit (300 words or less).*
 
-
-![Untitled](Untitled%202%201.png)
+![[Untitled 2 1.png]]
 
 - 89-31-28 KTH Royal Institute of Technology, Stockholm - 1 Year two
 
