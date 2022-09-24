@@ -7,14 +7,10 @@ Universities
 [[Master Twente]]
 
 ## EIT
-### EIT Universities
-
 Courses pdf [link](https://masterschool.eitdigital.eu/fileadmin/2021/masterschool/EIT-Digital-Master-School-Data-Science-What-can-I-study-at-the-entry-and-exit-points.pdf)
-
 Insurance [link](https://academy.eitdigital.eu/SITE/PRIVATE/GO/article.aspx?id=132): works 2 weeks before the beginning and 2 weeks after the studies
 
 ### Summer school
-
 [link](https://summerschool.eitdigital.eu/admission-and-costs)
 
 2 weeks of projects (they were mostly 11 days in 2022)
