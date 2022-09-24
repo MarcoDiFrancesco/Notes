@@ -11,7 +11,7 @@ $$
 $$
 \mathfrak{RQSZ}
 $$
-bb (blackboard):
+`\mathbb` (blackboard):
 $$
 \mathbb{RQSZ}
 $$
