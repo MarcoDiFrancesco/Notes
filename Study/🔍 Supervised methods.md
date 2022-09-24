@@ -67,13 +67,9 @@ $f$ is the function in $F_{task}$ that allows to get che best value $f^*$
 
 **Objective function** computes how well the optimization worked. It's defined either by the probabilty distribution of data or by the hypotesis space H.
 
-![[Untitled 2.png]]
-
 $$
-\math{argmin} \!w\!\ln_{w,b}\sum_{i=1}^{n}\!J o S\!(y y^{\dagger})\!+\!\lambda\,\,r e g u l a r i z e r(w,b)
+\text{argmin}_{w,b} \sum_{i=1}^{n} loss(y y')+ \lambda \ regularizer(w,b)
 $$
-
-![[Untitled 3.png|300]]
 
 **Indicator function** returns 0 if correct, 1 if not correct
 
@@ -85,15 +81,9 @@ $$
 
 **Model-based machine learning** works in 3 steps: pick a model (like hyperplane or decision tree), pick a criterion to optimize with an objective function (like training error), develop a learning algorithm that minimizes/maximizes the objective function.
 
-![[screenshot_2021-04-21_09-42-02.png|300]]
+![[Untitled 5.png|400]]
 
-![[Untitled 5.png|300]]
-
-**Cost function** is a type of objective function, it measures the error between what value your model predicts and what the value actually is. An example can be the sum of loss functions over your training set, plus regularization.
-
-**Surrogate Loss function** is a function with a contionuous output and only one local minima. It is used to fix the problem of the 0/1 loss, because it this loss a little change in the weights can lead to a big change in output and we could get stuck in a local minima.
-
-**Loss function** measures the penalty on a data point compared to it's target, given a model the objective function is usually to minimize the loss. There are some well know loss function:
+Moved to -> L
 
 **Activation function** decide whether the neuron should be activated or not. Usually there is 1 activation function for all the hidden layers and a different one for the output layer.
 
