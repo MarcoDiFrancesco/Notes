@@ -69,7 +69,7 @@ Expectation (E): valore atteso
 
 ![Untitled](Reinforcement%20Learning/Untitled%203.png)
 $$
-\pi^* = \math{D}\supset\mathrm{arg}\mathsf{\ g}\mathsf{^{I n}\!\ d x}\mathsf{H}[G]
+\pi^* = \underset{\pi}{\mathrm{argmax}}\ \mathbb{E}[G]
 $$
 
 

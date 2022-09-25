@@ -3,7 +3,7 @@ nothing (normal):
 $$
 RQSZ
 $$
-\math
+`\mathrm` (roman)
 $$
 \mathrm{RQST}
 $$
