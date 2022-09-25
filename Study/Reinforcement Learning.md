@@ -98,6 +98,10 @@ $$
 **Discount factor** (γ) is used to allow an episode to end, e.g. if each state gives rewards +1 the reward is always infinite, on the other hand with discount factor it always converges. Practically is gives more importance to currect rewards compared to the future ones, it makes sense to have it in case we have the reward not changing during time.
 Cumulative rewards (G) aka expected returns
 
+$$
+G_{t}\doteq\sum_{k=0}^{\infty}\gamma^{k}G_{t+k+1}\longrightarrow\sum_{k=t+1}^{T}\,\gamma^{k-t-1}G_{t}
+$$
+
 ![Untitled](Reinforcement%20Learning/Untitled%2010.png)
 
 ![Untitled](Reinforcement%20Learning/Untitled%2011.png)
