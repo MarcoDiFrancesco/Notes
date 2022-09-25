@@ -1,4 +1,4 @@
-# 🔍 Supervised methods
+# 🔍 Supervised
 
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37029&section=2)
 
@@ -75,13 +75,13 @@ $$
 
 **Overfitting** is the problem that comes when the model is able to perform really well in training data, but badly in validation data. **Underfitting** is when we find a local minima.
 
-![[Untitled 4.png]]
+![[Untitled 4 2.png]]
 
 **Feature** are the parameters of the input, in ML the features are handcrafted and we try to find the best values (not maximum) values for each feature.
 
 **Model-based machine learning** works in 3 steps: pick a model (like hyperplane or decision tree), pick a criterion to optimize with an objective function (like training error), develop a learning algorithm that minimizes/maximizes the objective function.
 
-![[Untitled 5.png|400]]
+![[Untitled 5 2.png|400]]
 
 **Cost function** is a type of objective function, it measures the error between what value your model predicts and what the value actually is. An example can be the sum of loss functions over your training set, plus regularization.
 
@@ -125,9 +125,9 @@ Binary classification includes:
 - **Version space**: if classifies correctly all samples
 - **Margin** (h) is the minimum distance between S and G
 
-![[Untitled 8.png|400]]
+![[Untitled 8 2.png|400]]
 
-![[Untitled 9.png|400]]
+![[Untitled 9 2.png|400]]
 
 ## Confusion matrix
 **Confusion matrix** is a kind of contingency table used to visualize performance of a supervised learning algorithm
@@ -149,17 +149,17 @@ $$
 \mathrm {F} _{1}={\frac {2\mathrm {TP} }{2\mathrm {TP} +\mathrm {FP} +\mathrm {FN} }}
 $$
 
-![Untitled](Untitled%2013.png)
+![Untitled](Untitled%2013%202.png)
 
 Multiclass classification confusion matrix is a way to show how many times each action is correct, but also showing which actions were the most confused.
 
-![[Untitled 14.png]]
+![[Untitled 14 1.png]]
 
 ## ROC Curve
 
 ROC Curve summarizes the trade-off beween TPR and FPR. Same TPR means leftmost point is better, depending on how many FP we want we can choose the leftmost of the 3 points or of the 2 points.
 
-![[Untitled 15.png|400]]
+![[Untitled 15 1.png|400]]
 
 TPR can be replaced by Precision, so that in the rare diseese examle works better.
 
@@ -201,7 +201,7 @@ $$
 
 epsilon and *delta meaning*:
 
-![[Untitled 18.png]]
+![[Untitled 18 1.png]]
 
 $A_c$ is the event where $R’$ misses at least one rectangle, Each $r_i$ has probability mass $\epsilon / 4$ and probability of missing one rectangle $1 − \epsilon/4$, so with m samples the probability of missing at least one rectangle is:
 

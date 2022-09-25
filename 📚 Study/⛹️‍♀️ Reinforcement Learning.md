@@ -4,7 +4,7 @@ Notes: No
 Status: Studying
 Year: 4
 ---
-# Reinforcement Learning
+# ⛹️‍♀️ Reinforcement Learning
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37149&section=1)
 
 Exam:
@@ -37,7 +37,7 @@ Exam:
 Decision: make an action based on an observation
 $$
 $$
-![Untitled](Reinforcement%20Learning/Untitled.png)
+![Untitled](Untitled%2022.png)
 
 **State (S)** is the information used for the decision, e.g. position where I’m am in the grid
 
@@ -127,34 +127,34 @@ $$
 
 **Optimal planning** for fixed-lenght plans: cost is the sum between all the steps + the final cost, defined as infinity if we don’t ge there. The goal is to minimize the cost (L).
 
-![Untitled](Reinforcement%20Learning/Untitled%204.png)
+![Untitled](Untitled%204%202.png)
 
-![Untitled](Reinforcement%20Learning/Untitled%205.png)
+![Untitled](Untitled%205%202.png)
 
-![Untitled](Reinforcement%20Learning/Untitled%206.png)
+![Untitled](Untitled%206%202.png)
 
-![Untitled](Reinforcement%20Learning/Untitled%207.png)
+![Untitled](Untitled%207%202.png)
 
 **Value function** is used to solve optimal planning.
 Optimal (*), starting point (k), end point (K)
 
-![Untitled](Reinforcement%20Learning/Untitled%208.png)
+![Untitled](Untitled%208%202.png)
 
 **Value function** (V) can be computed where we have a policy, just by following the steps
 
-![Untitled](Reinforcement%20Learning/Untitled%209.png)
+![Untitled](Untitled%209%202.png)
 
 ***State-Value function** is fourmulated by the Bellman equasion, measures how good it is for the agent to be in a given state. Expected value is used because we are dealing with stochastic actions and transitions, not deterministic.*
 
-![Untitled](Reinforcement%20Learning/Untitled%2012.png)
+![Untitled](Untitled%2012%202.png)
 
 **Action-value function** (Q) we have the first action that is not random, then other values are random.
 
-![Untitled](Reinforcement%20Learning/Untitled%2013.png)
+![Untitled](Untitled%2013%202.png)
 
 Optimal policy, at least one optimal policy exists.
 
-![Untitled](Reinforcement%20Learning/Untitled%2014.png)
+![Untitled](Untitled%2014%201.png)
 
 Markov decision process is defined by (S, A, T, R , γ)
 
@@ -176,25 +176,25 @@ v(s) is the average return achieed after visiting the state (s)
 
 Value function V is initially randomized, Returns is the list of returns experienced for each state
 
-![Untitled](Reinforcement%20Learning/Untitled%2015.png)
+![Untitled](Untitled%2015%201.png)
 
 *Action state functions (Q) are more useful than Value function (V) because we don’t know how our pair necesserly translates.*
 
 **Sampling retuns** is the technique used by Monte Carlo (left picture), opposed to MDP that uses the Bellman equasion (right picture)
 
-![Untitled](Reinforcement%20Learning/Untitled%2016.png)
+![Untitled](Untitled%2016%201.png)
 
 **Off-Policy** learning uses a target policy (π) that can be deterministic, and behavior policy (b) used to explore and update the target policy
 
 Ordinary vs Weighted importance sampling
 
-![Untitled](Reinforcement%20Learning/Untitled%2017.png)
+![Untitled](Untitled%2017%201.png)
 
 Example
 
-![Untitled](Reinforcement%20Learning/Untitled%2018.png)
+![Untitled](Untitled%2018%201.png)
 
-![Untitled](Reinforcement%20Learning/Untitled%2019.png)
+![Untitled](Untitled%2019%201.png)
 
 ## Practical
 

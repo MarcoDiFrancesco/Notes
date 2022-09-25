@@ -1,4 +1,4 @@
-# Python - Django
+# Python
 ## Python
 Installation [[VM - WSL - SSH - Raspberry#Python]]
 
