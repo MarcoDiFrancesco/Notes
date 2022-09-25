@@ -120,13 +120,9 @@ $$
 $$
 =\sum_{s^{\prime}\cdot r} p(s^{\prime},r\mid s,a)\left[r+\gamma \operatorname*{max}_{a'}{\mathcal{q}}_{\star}(s^{\prime}, a')\right]
 $$
+Policy evaluation with bellman equasion $v_*(s)$
 
-**Optimal Value function**
-%%%%$$
-v_{\ast}(s)\,=\,\operatorname*{max}_{a\in\mathcal{A}(s)}\,q_{\pi_{\ast}}\!\left(s,a\right)
-$$
-
-
+![[Pasted image 20220925163208.png|400]]
 
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
