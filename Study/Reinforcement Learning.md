@@ -116,7 +116,7 @@ $$
 Optimal 
 
 $$
-q_{\star}\left(S,\,a\right)
+q_{\star}\left(S,\,a\right)=
 $$
 
 
