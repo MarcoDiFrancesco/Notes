@@ -95,6 +95,12 @@ $$
 $$
 **Episode** is a set of steps ending in a terminal state
 
+**Discount factor** (γ) is used to allow an episode to end, e.g. if each state gives rewards +1 the reward is always infinite, on the other hand with discount factor it always converges. Practically is gives more importance to currect rewards compared to the future ones, it makes sense to have it in case we have the reward not changing during time.
+Cumulative rewards (G) aka expected returns
+
+![Untitled](Reinforcement%20Learning/Untitled%2010.png)
+
+![Untitled](Reinforcement%20Learning/Untitled%2011.png)
 
 
 
@@ -120,13 +126,6 @@ Optimal (*), starting point (k), end point (K)
 **Value function** (V) can be computed where we have a policy, just by following the steps
 
 ![Untitled](Reinforcement%20Learning/Untitled%209.png)
-
-**Discount factor** (γ) is used to give more importance to currect rewards compared to the future ones, it makes sense to have it in case we have the reward not changing during time.
-Cumulative rewards (G) aka expected returns
-
-![Untitled](Reinforcement%20Learning/Untitled%2010.png)
-
-![Untitled](Reinforcement%20Learning/Untitled%2011.png)
 
 ***State-Value function** is fourmulated by the Bellman equasion, measures how good it is for the agent to be in a given state. Expected value is used because we are dealing with stochastic actions and transitions, not deterministic.*
 
