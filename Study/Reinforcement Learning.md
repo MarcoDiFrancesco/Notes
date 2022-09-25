@@ -104,7 +104,8 @@ $$
 $$
 q_{\pi}(s,a)~\doteq~\mathbb{E}_{\pi}[G_{t}~|~S_{t}=s,A_{t}=a]
 $$
-Both functions can be estimated from experience by taking an average of the return for each state encountered, after infinite number of steps the will converge to $v_\pi(s)$ and %
+Both functions can be estimated from experience by taking an average of the return for each state encountered, after infinite number of steps the will converge to $v_\pi(s)$.
+Monte Carlo methods consider separate averages for each action and $q_{\pi}(s,a)$.
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
