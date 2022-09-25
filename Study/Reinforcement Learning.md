@@ -85,7 +85,7 @@ $$
 p(s',r|s, a)
 $$
 
-Probability of each possible value for $S_t$ and $R_t$ depends only on the immediately preceding state and action, and the sum of these is 1
+Probability of each possible value for $S_t$ and $R_t$ depends only on the immediately preceding state and action, and the sum of these probabilities is 1
 
 $$
 \sum_{s^{\prime}\in{\mathcal G}}\sum_{r\in\mathcal G}p(s^{\prime},r|\,s,\,a)=\,1,
