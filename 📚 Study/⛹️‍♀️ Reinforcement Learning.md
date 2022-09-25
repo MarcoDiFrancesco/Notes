@@ -123,7 +123,8 @@ $$
 Policy evaluation with bellman equasion $v_*(s)$
 
 ![[Pasted image 20220925163208.png|400]]
-
+Policy evluation algorithm
+![[Pasted image 20220925164644.png]]
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
