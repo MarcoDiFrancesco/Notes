@@ -120,10 +120,13 @@ $$
 $$
 =\sum_{s^{\prime}\cdot r} p(s^{\prime},r\mid s,a)\left[r+\gamma \operatorname*{max}_{a'}{\mathcal{q}}_{\star}(s^{\prime}, a')\right]
 $$
-Policy evaluation with bellman equasion $v_*(s)$
-Policy iteration is the iterative 
+**Policy evaluation** with bellman equasion $v_*(s)$
+**Policy iteration** is the iterative version of policy evaluation
+
 ![[Pasted image 20220925163208.png|400]]
+
 Policy evluation algorithm
+
 ![[Pasted image 20220925164644.png|600]]
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
