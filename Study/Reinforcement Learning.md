@@ -83,24 +83,19 @@ Policies can be **deterministic** when we get the same actions when going into a
 **Markovian properies** include information about all aspects of the past agent–environment interaction
 
 **Markov decision process** (MDP) uses Markovian dynamics, meaning we don’t care what happened in the past, but only in the current state, e.g. chess
-
 $$
 p(s',r|s, a)
 $$
-
 Probability of each possible value for $S_t$ and $R_t$ depends only on the immediately preceding state and action, and the sum of these probabilities is 1
-
 $$
 \sum_{s^{\prime}\in{\mathcal G}}\sum_{r\in\mathcal G}p(s^{\prime},r|\,s,\,a)=\,1,
 $$
 **Episode** is a set of steps ending in a terminal state
 
 **Discount factor** (γ) is used in cumulative rewards (G) function to allow an episode to end, e.g. if each state gives rewards +1 the reward is always infinite, on the other hand with discount factor it always converges. Practically is gives more importance to currect rewards compared to the future ones, it makes sense to have it in case we have the reward not changing during time.
-
 $$
 G_{t}\doteq R_{t+1}+\gamma R_{t+2}+\gamma^{2}R_{t+3}+... = \sum_{k=0}^{\infty}\gamma^{k}R_{t+k+1}
 $$
-
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
 **Optimal planning** for fixed-lenght plans: cost is the sum between all the steps + the final cost, defined as infinity if we don’t ge there. The goal is to minimize the cost (L).

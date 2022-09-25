@@ -5,8 +5,8 @@
 
 /* Block equation
 Increases zoom both from .math and .math-block
-e.g. 120% + 150% = 180%
+e.g. 120% + 140%
 */
 .math-block > mjx-container > mjx-math {
-  font-size: 150% !important;
+  font-size: 140% !important;
 }
