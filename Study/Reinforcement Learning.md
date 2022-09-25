@@ -78,10 +78,9 @@ $$
 Policies can be **deterministic** when we get the same actions when going into a state multiple times, or **stochastic** (aka randomized) when we take actions based on a distribution.
 
 ## Markov Decision Process
-**Markov decision process** (MDP) simplifies learning in action, states and rewards, setting an agent–environment boundary where for instance we define that 
+**Markov decision process** (MDP) simplifies learning in action, states and rewards, setting an agent–environment boundary where for instance we define that endurance of our body is part of the environment and not agent.
 
 **Markovian properies** include information about all aspects of the past agent–environment interaction
-
 
 **Markov decision process** (MDP) uses Markovian dynamics, meaning we don’t care what happened in the past, but only in the current state, e.g. chess
 
@@ -94,7 +93,6 @@ Probability of each possible value for $S_t$ and $R_t$ depends only on the immed
 $$
 \sum_{s^{\prime}\in{\mathcal G}}\sum_{r\in\mathcal G}p(s^{\prime},r|\,s,\,a)=\,1,
 $$
-
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
