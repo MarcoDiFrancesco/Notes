@@ -67,11 +67,9 @@ $$
 
 Expectation (E): valore atteso
 
-![Untitled](Reinforcement%20Learning/Untitled%203.png)
 $$
-\pi^* = \underset{\pi}{\mathrm{argmax}}\ \mathbb{E}[G]
+\pi^* = \underset{\pi}{\mathrm{arg\ max}}\ \mathbb{E}[G]
 $$
-
 
 **Task**: choose a sequence of actions that maximizes cumulative reward
 
@@ -86,6 +84,8 @@ Policies can be **deterministic** when we get the same actions when going into a
 $$
 p(s',r|s, a)
 $$
+
+The sum of all the probabilities in all possible state for *all possible actions* is 1
 
 $$
 \sum_{s^{\prime}\in{\mathcal G}}\sum_{r\in\mathcal G}p(s^{\prime},r|\,s,\,a)=\,1,
