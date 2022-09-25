@@ -96,14 +96,16 @@ G_{t}\doteq R_{t+1}+\gamma R_{t+2}+\gamma^{2}R_{t+3}+... = \sum_{k=0}^{\infty}\g
 $$
 **Policy (π)** is a mapping from states, to probabilities of selecting each possible action $\pi:O \rightarrow A$ . The policy function $\pi(a|s)$ defines the probability that an agent takes an action a given a state s.
 
-**Value function** ($v$) 
+**Value function** ($v_\pi$) 
 $$
 v_{\pi}(s)\ \doteq\ \mathbb{E}_{\pi}[G_{t}\mid S_{t}=s]
 $$
-**State-value function** ($q$)
+**State-value function** ($q_\pi$)
 $$
 q_{\pi}(s,a)~\doteq~\mathbb{E}_{\pi}[G_{t}~|~S_{t}=s,A_{t}=a]
 $$
+Both functions can be estimated from experience by taking an average of the return for each state encountered, after infinite number of steps the will converge to $v_\pi(s)$ and %
+
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
 **Optimal planning** for fixed-lenght plans: cost is the sum between all the steps + the final cost, defined as infinity if we don’t ge there. The goal is to minimize the cost (L).
