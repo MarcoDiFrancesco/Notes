@@ -116,7 +116,7 @@ Optimal (*), starting point (k), end point (K)
 ![Untitled](Reinforcement%20Learning/Untitled%209.png)
 
 **Discount factor** (γ) is used to give more importance to currect rewards compared to the future ones, it makes sense to have it in case we have the reward not changing during time.
-Cumulative rewards (G)
+Cumulative rewards (G) aka expect
 
 ![Untitled](Reinforcement%20Learning/Untitled%2010.png)
 
