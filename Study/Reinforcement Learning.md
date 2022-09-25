@@ -1,22 +1,18 @@
-# Reinforcement Learning
-
+---
 Credits: 5
 Notes: No
 Status: Studying
 Year: 4
-
-[MyCourses](https://mycourses.aalto.fi/course/view.php?id=37149&section=1) (old course [link](https://mycourses.aalto.fi/course/view.php?id=32937&section=1))
-
-[Zoom](https://aalto.zoom.us/j/64528953287) for Monday exercises
+---
+# Reinforcement Learning
+[MyCourses](https://mycourses.aalto.fi/course/view.php?id=37149&section=1)
 
 Exam:
-
 - 20%: Quizzes
 - 60%: 7 individual assignments
 - 20%: 1 project work, in groups, max. 3 students, alone is unadvised
 
 ## Submission checklist
-
 - “ex1” directory: files NOT zipped
 - pdf file: without a specific name?
 - pkl files: state values and the policy (Task 1)
@@ -24,26 +20,26 @@ Exam:
 ## Schedule
 
 - Lecture 1
-    - [x]  Readings 5 chapt: ~0:50m, 2-2.3, 2.5-2.6
-    - [ ]  Readings 8 chapt: ~2h 3-3.8
-    - [x]  Quiz 1
-    - [x]  Exercise 1
+    - [x] Readings 5 chapt: ~0:50m, 2-2.3, 2.5-2.6
+    - [ ] Readings 8 chapt: ~2h 3-3.8
+    - [x] Quiz 1
+    - [x] Exercise 1
 - Lecture 2
-    - [ ]  Readings 5 chapt: ~1:30h, 5-5.4, 5.6
-    - [ ]  Readings 5 chapt: ~1:30h, 6-6.5
-    - [x]  Quiz 2
-    - [ ]  Exercise 2
+    - [ ] Readings 5 chapt: ~1:30h, 5-5.4, 5.6
+    - [ ] Readings 5 chapt: ~1:30h, 6-6.5
+    - [x] Quiz 2
+    - [ ] Exercise 2
 - Lecture 3
-    - [ ]  Readings 5 chapt: 9-9.3
-    - [ ]  Readings 2 chaps: 10-10.1
+    - [ ] Readings 5 chapt: 9-9.3
+    - [ ] Readings 2 chaps: 10-10.1
 
 ## Notes
-
 Decision: make an action based on an observation
-
+$$
+$$
 ![Untitled](Reinforcement%20Learning/Untitled.png)
 
-**Policy (π)**
+**Policy (π)** $\pi:O \rightarrow A$
 
 **State (S)** is the information used for the decision, e.g. position where I’m am in the grid
 
@@ -51,13 +47,9 @@ Decision: make an action based on an observation
 
 **Observation (O, z)** is a State when we cannot observe the whole environment
 
-**Action (A)**
+**Action (A)** $a=\pi(o)$
 
 **Rewards (R)**
-
-**Plan**: set of actions *defined as*
-
-![Untitled](Reinforcement%20Learning/Untitled%201.png)
 
 **Planning**: sequential decision making, is an optimization of a policy with respect to expected returns
 
@@ -70,6 +62,9 @@ Decision: make an action based on an observation
 **Cumulative rewards** (G), Timesep (t)
 
 ![Untitled](Reinforcement%20Learning/Untitled%202.png)
+$$
+G = \sum_{t}r_{t}
+$$
 
 Expectation (E): valore atteso
 
