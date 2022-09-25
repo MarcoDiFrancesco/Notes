@@ -108,6 +108,10 @@ Both functions can be estimated from experience by taking an average of the retu
 Monte Carlo methods consider separate averages for each action and $q_{\pi}(s,a)$.
 
 **Bellman equation** express the relationship between the value of a state and the values of its successor states by averaging all the possible state action pairs weighing the reward with the probabability of it occurring.
+$$
+v_{*}(s)=\operatorname*{max}_{a}\mathbb{E}[R_{t+1}+\gamma v_{*}(S_{t+1})\mid S_{t}=s,A_{t}=a]
+$$
+$$\underline{{{\theta}}}\left.\frac{\partial{\bf\bar{x}}}{a}\right._{s^{\prime},r}\mathcal{P}(s^{\prime},r\mid s,a)\left[r+\gamma v_{\ast}(s^{\prime})\right]\right.$$
 
 **Optimal Value function**
 $$
