@@ -111,7 +111,10 @@ Monte Carlo methods consider separate averages for each action and $q_{\pi}(s,a)
 $$
 v_{*}(s)=\operatorname*{max}_{a}\mathbb{E}[R_{t+1}+\gamma v_{*}(S_{t+1})\mid S_{t}=s,A_{t}=a]
 $$
-$$\underline{{{\theta}}}\left.\frac{\partial{\bf\bar{x}}}{a}\right._{s^{\prime},r}\mathcal{P}(s^{\prime},r\mid s,a)\left[r+\gamma v_{\ast}(s^{\prime})\right]\right.$$
+$$
+=\operatorname*{max}_a\sum_{s^{\prime}\cdot r} p(s^{\prime},r\mid s,a)\left[r^{\prime}+\gamma{\mathcal{v}}_{\star}(s^{\prime})\right]
+$$
+![[Pasted image 20220925161634.png]]
 
 **Optimal Value function**
 $$
