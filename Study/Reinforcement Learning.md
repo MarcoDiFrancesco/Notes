@@ -61,7 +61,6 @@ $$
 
 **Cumulative rewards** (G), Timesep (t)
 
-![Untitled](Reinforcement%20Learning/Untitled%202.png)
 $$
 G = \sum_{t}r_{t}
 $$
@@ -69,6 +68,10 @@ $$
 Expectation (E): valore atteso
 
 ![Untitled](Reinforcement%20Learning/Untitled%203.png)
+$$
+\pi^* = \math{D}\supset\mathrm{arg}\mathsf{\ g}\mathsf{^{I n}\!\ d x}\mathsf{H}[G]
+$$
+
 
 **Task**: choose a sequence of actions that maximizes cumulative reward
 

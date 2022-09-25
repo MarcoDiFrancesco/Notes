@@ -1,7 +1,11 @@
 # Latex
-`\math` (normal):
+nothing (normal):
 $$
 RQSZ
+$$
+\math
+$$
+\mathrm{RQST}
 $$
 `\mathcal` (calligraphic):
 $$
