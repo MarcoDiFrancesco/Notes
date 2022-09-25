@@ -115,13 +115,14 @@ $$
 =\operatorname*{max}_a\sum_{s^{\prime}\cdot r} p(s^{\prime},r\mid s,a)\left[r^{\prime}+\gamma{\mathcal{v}}_{\star}(s^{\prime})\right]
 $$
 $$
-q_{*}(s,a)=\operatorname*{max}_{a}\mathbb{E}[R_{t+1}+\gamma v_{*}(S_{t+1})\mid S_{t}=s,A_{t}=a]
+q_{*}(s,a)=\mathbb{E}[R_{t+1}+\gamma \operatorname*{max}_{a'}q_{*}(S_{t+1})\mid S_{t}=s,A_{t}=a]
 $$
-
-![[Pasted image 20220925161634.png]]
+$$
+=\sum_{s^{\prime}\cdot r} p(s^{\prime},r\mid s,a)\left[r+\gamma \operatorname*{max}_{a'}{\mathcal{q}}_{\star}(s^{\prime}, a')\right]
+$$
 
 **Optimal Value function**
-$$
+%%%%$$
 v_{\ast}(s)\,=\,\operatorname*{max}_{a\in\mathcal{A}(s)}\,q_{\pi_{\ast}}\!\left(s,a\right)
 $$
 
