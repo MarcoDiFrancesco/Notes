@@ -114,6 +114,10 @@ $$
 $$
 =\operatorname*{max}_a\sum_{s^{\prime}\cdot r} p(s^{\prime},r\mid s,a)\left[r^{\prime}+\gamma{\mathcal{v}}_{\star}(s^{\prime})\right]
 $$
+$$
+q_{*}(s,a)=\operatorname*{max}_{a}\mathbb{E}[R_{t+1}+\gamma v_{*}(S_{t+1})\mid S_{t}=s,A_{t}=a]
+$$
+
 ![[Pasted image 20220925161634.png]]
 
 **Optimal Value function**
