@@ -93,6 +93,12 @@ Probability of each possible value for $S_t$ and $R_t$ depends only on the immed
 $$
 \sum_{s^{\prime}\in{\mathcal G}}\sum_{r\in\mathcal G}p(s^{\prime},r|\,s,\,a)=\,1,
 $$
+**Episode** is a set of steps ending in a terminal state
+
+
+
+
+
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
@@ -116,7 +122,7 @@ Optimal (*), starting point (k), end point (K)
 ![Untitled](Reinforcement%20Learning/Untitled%209.png)
 
 **Discount factor** (γ) is used to give more importance to currect rewards compared to the future ones, it makes sense to have it in case we have the reward not changing during time.
-Cumulative rewards (G) aka expect
+Cumulative rewards (G) aka expected returns
 
 ![Untitled](Reinforcement%20Learning/Untitled%2010.png)
 
