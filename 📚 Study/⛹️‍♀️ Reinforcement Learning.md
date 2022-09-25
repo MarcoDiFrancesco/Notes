@@ -113,12 +113,6 @@ Monte Carlo methods consider separate averages for each action and $q_{\pi}(s,a)
 $$
 v_{\ast}(s)\,=\,\operatorname*{max}_{a\in\mathcal{A}(s)}\,q_{\pi_{\ast}}\!\left(s,a\right)
 $$
-Optimal 
-
-$$
-q_{\star}\left(S,\,a\right)=
-$$
-
 
 
 
