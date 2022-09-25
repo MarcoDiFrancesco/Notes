@@ -96,8 +96,10 @@ G_{t}\doteq R_{t+1}+\gamma R_{t+2}+\gamma^{2}R_{t+3}+... = \sum_{k=0}^{\infty}\g
 $$
 **Policy (π)** is a mapping from states, to probabilities of selecting each possible action $\pi:O \rightarrow A$ . The policy function $\pi(a|s)$ defines the probability that an agent takes an action a given a state s.
 
-
-
+**Value function** ($v$) given 
+$$
+v_{\pi}(s)\ \doteq\ \mathbb{E}_{\pi}[G_{t}\mid S_{t}=s]\ =\ \mathbb{E}_{\pi}\biggl[\sum_{k=0}^{\infty}\gamma^{k}R_{t+k+1}\biggl|\ S_{t}=s\biggl]
+$$
 
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
