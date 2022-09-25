@@ -20,13 +20,13 @@ Exam:
 ## Schedule
 
 - Lecture 1
-    - Readings 5 chapt: ~0:50m, 2-2.3, 2.5-2.6
+    - Readings 5 chapt: ~1m, 2-2.3, 2.5-2.6
     - Readings 8 chapt: ~4h, 3-3.8
     - Quiz 1
     - Exercise 1: ~9h
 - Lecture 2
-    - [ ] Readings 5 chapt: ~1:30h, 5-5.4, 5.6
-    - [ ] Readings 5 chapt: ~1:30h, 6-6.5
+    - [ ] Readings 5 chapt: ~3h, 5-5.4, 5.6
+    - [ ] Readings 5 chapt: ~3h, 6-6.5
     - Quiz 2
     - [ ] Exercise 2: 2h wed + ?h Sun
 - Lecture 3
