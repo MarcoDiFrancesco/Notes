@@ -123,7 +123,7 @@ $$
 **Policy evaluation** with bellman equasion $v_*(s)$
 **Policy iteration** is the iterative version of policy evaluation
 
-![[Pasted image 20220925163208.png|400]]
+![[Pasted image 20220925163208.png|450]]
 
 Policy evluation algorithm
 
