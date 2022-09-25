@@ -85,11 +85,13 @@ $$
 p(s',r|s, a)
 $$
 
-The sum of all the probabilities in all possible state for *all possible actions* is 1
+Probability of each possible value for $S_t$ and $R_t$ depends only on the immediately preceding state and action, and the sum of these is 1
 
 $$
 \sum_{s^{\prime}\in{\mathcal G}}\sum_{r\in\mathcal G}p(s^{\prime},r|\,s,\,a)=\,1,
 $$
+
+**Markovian properies** include information about all aspects of the past agent–environment interaction
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
