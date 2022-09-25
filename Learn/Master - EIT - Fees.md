@@ -111,13 +111,13 @@ Twente vs Eindhoven: *Living is an important factor and that is here i found Uni
 ## Universities comparison
 
 Expenditure by student in tertiary education in euros ([link](https://ec.europa.eu/eurostat/databrowser/view/EDUC_UOE_FINI04__custom_2067655/default/map?lang=en))
-![[Untitled 11 1.png]]
+
+![[Untitled 11 1.png|500]]
 
 Expenditure by student in tertiary education in euros ([link](https://ec.europa.eu/eurostat/databrowser/view/EDUC_UOE_FINI04__custom_2067655/default/bar?lang=en))
-
-![Untitled](Untitled%2012%201.png)
+![[Untitled 12 1.png|400]]
 
 GDP per capita PPP ([link](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2021&locations=SE-CH-NO-FI-NL-IT-DE&start=1990))
 
-![Untitled](Untitled%2013%201.png)
+![[Untitled 13 1.png|600]]
 
