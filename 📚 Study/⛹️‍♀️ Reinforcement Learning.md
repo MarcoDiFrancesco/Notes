@@ -127,9 +127,11 @@ $$
 
 Policy evluation algorithm
 
-![[Pasted image 20220925164644.png|600]]
+![[Pasted image 20220925171056.png]]
 
-**Value iteration** 
+**Value iteration**
+
+![[Pasted image 20220925171029.png|]]
 
 
 
