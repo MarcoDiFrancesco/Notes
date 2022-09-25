@@ -109,6 +109,18 @@ Monte Carlo methods consider separate averages for each action and $q_{\pi}(s,a)
 
 **Bellman equation** express the relationship between the value of a state and the values of its successor states by averaging all the possible state action pairs weighing the reward with the probabability of it occurring.
 
+**Optimal Value function**
+$$
+v_{\ast}(s)\,=\,\operatorname*{max}_{a\in\mathcal{A}(s)}\,q_{\pi_{\ast}}\!\left(s,a\right)
+$$
+Optimal 
+
+$$
+q_{\star}\left(S,\,a\right)
+$$
+
+
+
 
 
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
