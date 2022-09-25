@@ -107,6 +107,10 @@ $$
 Both functions can be estimated from experience by taking an average of the return for each state encountered, after infinite number of steps the will converge to $v_\pi(s)$.
 Monte Carlo methods consider separate averages for each action and $q_{\pi}(s,a)$.
 
+**Bellman equation** express the relationship between the value
+
+
+
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
 **Optimal planning** for fixed-lenght plans: cost is the sum between all the steps + the final cost, defined as infinity if we don’t ge there. The goal is to minimize the cost (L).
