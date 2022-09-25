@@ -129,6 +129,12 @@ Policy evluation algorithm
 
 ![[Pasted image 20220925164644.png|600]]
 
+**Value iteration** 
+
+
+
+
+
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
 **Optimal planning** for fixed-lenght plans: cost is the sum between all the steps + the final cost, defined as infinity if we don’t ge there. The goal is to minimize the cost (L).
