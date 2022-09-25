@@ -94,8 +94,7 @@ $$
 $$
 G_{t}\doteq R_{t+1}+\gamma R_{t+2}+\gamma^{2}R_{t+3}+... = \sum_{k=0}^{\infty}\gamma^{k}R_{t+k+1}
 $$
-**Policy (π)** is a mapping from states to probabilities of selecting each possible action
-$\pi:O \rightarrow A$ 
+**Policy (π)** is a mapping from states, to probabilities of selecting each possible action $\pi:O \rightarrow A$ . The policy function $\pi(a|s)$ defines the probability that an agent takes an action a given a state s.
 
 
 
