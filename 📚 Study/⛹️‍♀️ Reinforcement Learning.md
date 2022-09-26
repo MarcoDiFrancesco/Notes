@@ -20,18 +20,20 @@ Exam:
 ## Schedule
 
 - Lecture 1
-    - Readings 5 chapt: 1m, 2-2.3, 2.5-2.6
+    - Readings 5 chapt: 1h, 2-2.3, 2.5-2.6
     - Readings 8 chapt: 4h, 3-3.8
     - Quiz 1
     - Exercise 1: 9h
 - Lecture 2
-    - [ ] Readings 5 chapt: 3h, 5-5.4, 5.6
-    - [ ] Readings 5 chapt: 3h, 6-6.5
+    - [ ] Readings 5 chapt: ~3h, 5-5.4, 5.6
+    - [ ] Readings 5 chapt: ~3h, 6-6.5
     - Quiz 2
     - Exercise 2: 12h
 - Lecture 3
     - [ ] Readings 5 chapt: 9-9.3
     - [ ] Readings 2 chaps: 10-10.1
+    - [ ] Quiz 3
+    - Exercise 3: 12h
 
 
 ## Notes
@@ -134,13 +136,7 @@ Policy evluation algorithm
 
 ![[Pasted image 20220925171029.png|]]
 
-
-
-
-
-
-
-
+## TOMERGE ABOVE
 **Reinforcement Learning** (RL) the goal is to maximize the expected total reward
 
 **Optimal planning** for fixed-lenght plans: cost is the sum between all the steps + the final cost, defined as infinity if we don’t ge there. The goal is to minimize the cost (L).
@@ -210,7 +206,7 @@ Ordinary vs Weighted importance sampling
 
 Example
 
-![Untitled](Untitled%2018%201.png)
+![[Untitled 18 1.png]]
 
 ![Untitled](Untitled%2019%201.png)
 
