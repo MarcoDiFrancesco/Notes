@@ -20,18 +20,19 @@ Exam:
 ## Schedule
 
 - Lecture 1
-    - Readings 5 chapt: ~1m, 2-2.3, 2.5-2.6
-    - Readings 8 chapt: ~4h, 3-3.8
+    - Readings 5 chapt: 1m, 2-2.3, 2.5-2.6
+    - Readings 8 chapt: 4h, 3-3.8
     - Quiz 1
-    - Exercise 1: ~9h
+    - Exercise 1: 9h
 - Lecture 2
-    - [ ] Readings 5 chapt: ~3h, 5-5.4, 5.6
-    - [ ] Readings 5 chapt: ~3h, 6-6.5
+    - [ ] Readings 5 chapt: 3h, 5-5.4, 5.6
+    - [ ] Readings 5 chapt: 3h, 6-6.5
     - Quiz 2
-    - [ ] Exercise 2: 2h wed + 4:30h Sun + ?h Mon
+    - Exercise 2: 12h
 - Lecture 3
     - [ ] Readings 5 chapt: 9-9.3
     - [ ] Readings 2 chaps: 10-10.1
+
 
 ## Notes
 Decision: make an action based on an observation
