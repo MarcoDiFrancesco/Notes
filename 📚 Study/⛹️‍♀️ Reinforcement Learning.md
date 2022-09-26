@@ -211,4 +211,8 @@ Example
 ![[Untitled 19 1.png]]
 
 ## Policy approximation
-$\hat{\mathcal{U}}\left(s\mathbf{\Sigma}_{\cdot}\mathbf{W}\right)\iff\mathcal{U}_{\mathbb{T}}\left(s\mathbf{\Delta}\right)$ 
+**Policy approximation** work by assigning for each state a number of weights ($w$) and our goal is to find a value function ($\hat v$).
+$$
+\hat v (s, w) \approx v_\pi (s)
+$$
+Like on On every
