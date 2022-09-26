@@ -219,4 +219,15 @@ Like on previous value function, at each step we move the value ($s$) towards an
 
 Artificial neural networks can be used to train the weights, but not all methods are equally suitable if the environment changes in time.
 
-$\mu(s)\greaterorequal 0$ 
+$\mu$ is a $[0, 1]$ that represents how much we care about the error in a given state
+$$
+\sum_s \mu (s) = 1
+$$
+AAA
+$$
+\overline{{{\cal{V}\Pi}}}({\bf{w}\big/})\,\stackrel{*}{\longrightarrow}\sum_{s\in\mathcal{S}}\iiint(S)\left[{\it w}_{\pi}\!\left(S\right)\,-\,\hat{\bar{v}}\!\left(S,{\bf w}\right)\right]^{2}
+$$
+
+$$
+\overline{\mathrm{VE}}(w) \doteq \sum_{s \}
+$$
