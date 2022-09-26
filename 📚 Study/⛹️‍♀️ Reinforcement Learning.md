@@ -215,7 +215,7 @@ Example
 $$
 \hat v (s, w) \approx v_\pi (s)
 $$
-Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value $\mu \right$
+Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value $s \rightarrow \mu$
 e.g. for Monte Carlo methods is $S_t \rightarrow R_{t+1}+\gamma \hat v (S_{t+1}, w_t)$. 
 
 Artificial neural networks can be used to train the weights, but not all methods are equally suitable if the environment changes in time.
@@ -233,3 +233,5 @@ $$
 \mu(s)=\frac{\eta(s)}{\sum_{s^{\prime}}\eta(s^{\prime})}
 $$
 $\overline{\mathrm{VE}}$ for non linear function may converge to a local minima, and there is no guarantee of convergence as it might diverge
+
+We can get an approximation of the target value $v_\pi(S_t)$ or it might be one of the bootstrapping targets v
