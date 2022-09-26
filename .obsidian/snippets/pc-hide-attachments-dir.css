@@ -1,3 +1,8 @@
+/* 
+Exclude directory from side bar
+Does not exclude from search, for that go to 'Files & Links' -> 'Excluded files'
+*/
+
 div[data-path="_attachments"],
 div[data-path="_attachments"] + div.nav-folder-children {
   display: none;
