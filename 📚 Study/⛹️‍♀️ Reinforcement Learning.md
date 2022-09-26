@@ -215,11 +215,12 @@ Example
 $$
 \hat v (s, w) \approx v_\pi (s)
 $$
-Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value, e.g. for Monte Carlo methods is $S_t \rightarrow R_{t+1}+\gamma \hat v (S_{t+1}, w_t)$. 
+Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value $\mu \right$
+e.g. for Monte Carlo methods is $S_t \rightarrow R_{t+1}+\gamma \hat v (S_{t+1}, w_t)$. 
 
 Artificial neural networks can be used to train the weights, but not all methods are equally suitable if the environment changes in time.
 
-$\mu$ is a $[0, 1]$ that represents how much we care about the error in a given state
+$\mu$ is a $[0, 1]$ value that represents how much we care about the error in a given state
 $$
 \sum_s \mu (s) = 1
 $$
