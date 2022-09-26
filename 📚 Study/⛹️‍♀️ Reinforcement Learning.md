@@ -227,4 +227,7 @@ $$
 $$
 \overline{\mathrm{VE}}(w) \doteq \sum_{s \in S} \left[ v_\pi(s) - \hat v(s, w) \right]^2
 $$
-On-policy distribution $\mu (s)$ is usually the fraction of time spent in $s$ 
+On-policy distribution $\mu (s)$ is usually the fraction of time spent in the state $\eta$ normalized to 1
+$$
+\mu(s)=\frac{\eta(s)}{\sum_{s^{\prime}}\eta(s^{\prime})}
+$$
