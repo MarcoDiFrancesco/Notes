@@ -49,6 +49,8 @@ $$
 
 **Rewards (R)**
 
+
+**
 **Planning**: sequential decision making, is an optimization of a policy with respect to expected returns
 
 **Evaluating** a policy quality is done through rewarding
