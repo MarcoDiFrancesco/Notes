@@ -227,4 +227,3 @@ $$
 $$
 \overline{\mathrm{VE}}(w) \doteq \sum_{s \in S} \left[ v_\pi(s) - \hat v(s, w) \right]^2
 $$
-AAA
