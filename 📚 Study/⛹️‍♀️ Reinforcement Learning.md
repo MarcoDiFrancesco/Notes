@@ -231,3 +231,4 @@ On-policy distribution $\mu (s)$ is usually the fraction of time spent in the st
 $$
 \mu(s)=\frac{\eta(s)}{\sum_{s^{\prime}}\eta(s^{\prime})}
 $$
+$\overline{\mathrm{VE}}$ for non linear function may converge to a local minima, and there is no guarantee of 
