@@ -169,7 +169,7 @@ Optimal (*), starting point (k), end point (K)
 
 ![Untitled](Untitled%2013%202.png)
 
-Optimal policy, at least one optimal policy exists.
+Optimal policy, at least one optimal policy exists
 
 ![Untitled](Untitled%2014%201.png)
 
