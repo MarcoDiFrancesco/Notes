@@ -206,9 +206,9 @@ Ordinary vs Weighted importance sampling
 
 Example
 
-![[Untitled 18 1.png]]
+![[Untitled 18 1.png|300]]
 
-![Untitled](Untitled%2019%201.png)
+![[Untitled 19 1.png]]
 
 ## Practical
 
