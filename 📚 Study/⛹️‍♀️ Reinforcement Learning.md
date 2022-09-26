@@ -236,4 +236,6 @@ $\overline{\mathrm{VE}}$ for non linear function may converge to a local minima,
 
 **Bootstrapping methods** can be used for bootstrapping targets $\hat v$ to get an approximation of the target value $v_\pi(S_t)$, if this approximation is unbiased then the algorithm will converge.
 
+**Semi-gradient methods** are used for bootstrapping methods where we do .... . These methods can be used for online learning since we don't need to wait for the end of the episode
 
+State aggregation is used for generalization where states are grouped together
