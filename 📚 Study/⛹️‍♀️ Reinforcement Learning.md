@@ -211,10 +211,12 @@ Example
 ![[Untitled 19 1.png]]
 
 ## Policy approximation
-**Policy approximation** work by assigning for each state a number of weights ($w$) and our goal is to find a value function ($\hat v$).
+**Policy approximation** work by assigning using a number of weights ($w$) that is way less than the number of states, and our goal is to find a value function ($\hat v$)
 $$
 \hat v (s, w) \approx v_\pi (s)
 $$
 Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value, e.g. for Monte Carlo methods is $S_t \rightarrow R_{t+1}+\gamma \hat v (S_{t+1}, w_t)$. 
 
 Artificial neural networks can be used to train the weights, but not all methods are equally suitable if the environment changes in time.
+
+$\mu(s)\greaterorequal 0$ 
