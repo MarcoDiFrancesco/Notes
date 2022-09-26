@@ -28,16 +28,13 @@ Exam:
     - [ ] Readings 5 chapt: ~3h, 5-5.4, 5.6
     - [ ] Readings 5 chapt: ~3h, 6-6.5
     - Quiz 2
-    - [ ] Exercise 2: 2h wed + 4:30h Sun + ?h Mon
+    - [ ] Exercise 2: 2h wed + 2:30h Sun
 - Lecture 3
     - [ ] Readings 5 chapt: 9-9.3
     - [ ] Readings 2 chaps: 10-10.1
 
 ## Notes
 Decision: make an action based on an observation
-$$
-$$
-![Untitled](Untitled%2022.png)
 
 **State (S)** is the information used for the decision, e.g. position where I’m am in the grid
 
@@ -132,9 +129,6 @@ Policy evluation algorithm
 **Value iteration**
 
 ![[Pasted image 20220925171029.png|]]
-
-
-
 
 
 
