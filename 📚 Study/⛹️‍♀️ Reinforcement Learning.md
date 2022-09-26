@@ -28,7 +28,7 @@ Exam:
     - [ ] Readings 5 chapt: ~3h, 5-5.4, 5.6
     - [ ] Readings 5 chapt: ~3h, 6-6.5
     - Quiz 2
-    - [ ] Exercise 2: 2h wed + 2:30h Sun
+    - [ ] Exercise 2: 2h wed + 4:30h Sun + ?h Mon
 - Lecture 3
     - [ ] Readings 5 chapt: 9-9.3
     - [ ] Readings 2 chaps: 10-10.1
