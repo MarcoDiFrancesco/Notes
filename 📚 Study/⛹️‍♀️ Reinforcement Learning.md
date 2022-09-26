@@ -234,4 +234,6 @@ $$
 $$
 $\overline{\mathrm{VE}}$ for non linear function may converge to a local minima, and there is no guarantee of convergence as it might diverge
 
-We can get an approximation of the target value $v_\pi(S_t)$ or it might be one of the bootstrapping targets v
+**Bootstrapping methods** can be used for bootstrapping targets $\hat v$ to get an approximation of the target value $v_\pi(S_t)$, if this approximation is unbiased then the algorithm will converge.
+
+
