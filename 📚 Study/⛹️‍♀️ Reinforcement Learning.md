@@ -215,7 +215,4 @@ Example
 $$
 \hat v (s, w) \approx v_\pi (s)
 $$
-Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value, e.g. for Monte Carlo methods is 
-$$
-S_t \rightarrow R_{t+1}+\
-$$
+Like on previous value function, at each step we move the value ($s$) towards an update target ($u$) aka backed-up value, e.g. for Monte Carlo methods is $S_t \rightarrow R_{t+1}+\gamma \hat v (S_{t+1}, w_t)$ 
