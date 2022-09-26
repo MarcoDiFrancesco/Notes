@@ -223,11 +223,7 @@ $\mu$ is a $[0, 1]$ that represents how much we care about the error in a given 
 $$
 \sum_s \mu (s) = 1
 $$
-AAA
+Mean squared value error computed as
 $$
-\overline{{{\cal{V}\Pi}}}({\bf{w}\big/})\,\stackrel{*}{\longrightarrow}\sum_{s\in\mathcal{S}}\iiint(S)\left[{\it w}_{\pi}\!\left(S\right)\,-\,\hat{\bar{v}}\!\left(S,{\bf w}\right)\right]^{2}
-$$
-
-$$
-\overline{\mathrm{VE}}(w) \doteq \sum_{s \}
+\overline{\mathrm{VE}}(w) \doteq \sum_{s \in S} \left[ v_\pi(s) - \hat v(s, w) \right]^2
 $$
