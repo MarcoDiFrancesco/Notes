@@ -2,53 +2,22 @@
 
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37029&section=2)
 
-#### Assignment 1 answers
-1a - False → …from the same *unknown* distribution…????
-
-**1b - True**
-
-1c - False → ..all the *Consistent* hypotheses…
-
-2a - False → It’s not a diagonal line, it’s straight to top and then streight left
-
-**2b - True** → *Maybe -1 is 0 ??*
-
-2c - False → AUC ≤ 1
-
-3a - False
-
-**3b - True** → Precision
-
-3c - False
-
-**4a - True** → Recall
-
-4b - False
-
-4c - False
-
-**5b - True** → 166.13637311857883
-    
-
 Grading:
-
 - 30% exercises
 - 70% exam
 
 
 ## Schedule
-- Lecture 1: ~2h
-    - Quiz 1: ~3h
+- Lecture 1: 2h
+    - Quiz 1: 3h
 - [ ]  Lecture 2: ~2h
 - [ ]  Lecture 3: ~2h
+- [ ] Lecture 4: ~3h
     - [ ]  Quiz 2
     - [ ]  Quiz 3
-- Lecture 4: 27 Sep
 
 ## Notes
-
 ## Machine learning
-
 **Machine Learning** is the study of algorithms that: at some task T, improve their performance P, with experience E. A well-defined learning task is given by a triplet $<T, P, E>$. Learning is about generalizing from the training data to un unseen target domain.
 
 X is the input and Y is the output
@@ -201,7 +170,7 @@ $$
 
 epsilon and *delta meaning*:
 
-![[Untitled 18 1.png]]
+![[Untitled 18 1.png|300]]
 
 $A_c$ is the event where $R’$ misses at least one rectangle, Each $r_i$ has probability mass $\epsilon / 4$ and probability of missing one rectangle $1 − \epsilon/4$, so with m samples the probability of missing at least one rectangle is:
 
@@ -214,3 +183,6 @@ $$
 The hypothesis class also in the case of an square are infinite because we could fit inside a square of any dimension.
 
 If we are proving that VCdim is ≥ then 3, then just find one example where it’s possible to separate them, if we are proving that VCdim is = 3 then find any example is possible to separate them. What happens if it’s in one line?
+
+## Lecture 4
+Sources of stochasticity can be 
