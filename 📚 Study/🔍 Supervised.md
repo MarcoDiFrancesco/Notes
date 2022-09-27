@@ -223,16 +223,6 @@ $$
 
 ***Stratification ensures** that similar class distribution across the different sets*
 
-Nested cross-validation is used to 
+**Nested cross-validation** is used to imrpove K-Fold cross validation by...
 
-Testfold Traning folds
-
-O Cliocp
-
-[}
-
-o Yl
-Oyparparcter
-o)
-
-i
+![[Pasted image 20220927114622.png]]
