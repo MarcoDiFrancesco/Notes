@@ -185,4 +185,4 @@ The hypothesis class also in the case of an square are infinite because we could
 If we are proving that VCdim is ≥ then 3, then just find one example where it’s possible to separate them, if we are proving that VCdim is = 3 then find any example is possible to separate them. What happens if it’s in one line?
 
 ## Lecture 4
-Sources of stochasticity can be 
+**Sources of stochasticity** between input and output can be given by errors in labeling data
