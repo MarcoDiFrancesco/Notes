@@ -207,4 +207,8 @@ Bayer error the value of the wrong label, e.g. P(Y = 1|X ) =0.6, P(Y = 0|X ) =0.
 $$
 n o i s e(x)=\operatorname*{min}(P(1|x),P(0|x))
 $$
-Excess error $R^*$ can be dec
+Excess error $R^*$ can be decomposed in 2 errors
+- estimation error: $\epsilon_{estimation}=R(h)-R(h^*)$ is known as variance
+- approximation error: $\epsilon_{approximation}=R(h^*)-R^*$ is known as bias
+
+![[Pasted image 20220927104541.png]]
