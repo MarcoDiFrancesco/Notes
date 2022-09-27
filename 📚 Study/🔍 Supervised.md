@@ -203,3 +203,8 @@ $$
 $$
 h_{B a y e s}(x)=\arg\operatorname*{max}_{y\in\{0,1\}}P r(y|x)
 $$
+Bayer error the value of the wrong label, e.g. P(Y = 1|X ) =0.6, P(Y = 0|X ) =0.4 the bayes error / noise = 0.4
+$$
+n o i s e(x)=\operatorname*{min}(P(1|x),P(0|x))
+$$
+Excess error $R^*$ can be dec
