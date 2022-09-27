@@ -215,3 +215,24 @@ Excess error $R^*$ can be decomposed in 2 errors
 - approximation error: $\epsilon_{approximation}=R(h^*)-R^*$ is known as bias
 
 ![[Pasted image 20220927104541.png]]
+Error?
+$$
+R(h)=R^{\star}+\epsilon_{appro x i m a t i o n}+\epsilon_{e s t i m a t i o n}
+$$
+
+
+***Stratification ensures** that similar class distribution across the different sets*
+
+Nested cross-validation is used to 
+
+Testfold Traning folds
+
+O Cliocp
+
+[}
+
+o Yl
+Oyparparcter
+o)
+
+i
