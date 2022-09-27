@@ -195,3 +195,11 @@ This means we should not overfit the training data, and we can avoid it by:
 - *Vapnik-Chervonenkis dimesion (VCdim)*
 - *Rademacher complexity*
 
+**Bayes error** is the lower limit of the generalization error
+$$
+R^{*}=\operatorname*{inf}_{\{h|h\;\mathrm{measurable}~\}}R(h)
+$$
+**Bayes classifier** defines the probability of getting a label (y) given an input point (x)
+$$
+h_{B a y e s}(x)=\arg\operatorname*{max}_{y\in\{0,1\}}P r(y|x)
+$$
