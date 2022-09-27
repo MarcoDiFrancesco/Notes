@@ -186,3 +186,12 @@ If we are proving that VCdim is â‰¥ then 3, then just find one example where itâ
 
 ## Lecture 4
 **Sources of stochasticity** between input and output can be given by errors in labeling data
+This means we should not overfit the training data, and we can avoid it by:
+- selecting an hypothesis class, e.g. selecting maximum degree of polynomial
+- regularization
+
+**Measuring complexity** of an hypothesis class can be done using measures
+- *Number of distinct hypotheses (|H|)*
+- *Vapnik-Chervonenkis dimesion (VCdim)*
+- *Rademacher complexity*
+
