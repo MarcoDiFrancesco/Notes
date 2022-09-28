@@ -168,7 +168,7 @@ Optimal (*), starting point (k), end point (K)
 
 Optimal policy, at least one optimal policy exists
 
-![Untitled](Untitled%2014%201.png)
+![[Untitled 14 1.png]]
 
 Markov decision process is defined by (S, A, T, R , γ)
 
@@ -202,13 +202,12 @@ Value function V is initially randomized, Returns is the list of returns experie
 
 Ordinary vs Weighted importance sampling
 
-![Untitled](Untitled%2017%201.png)
-
+![[Untitled 17 1.png|400]]
 Example
 
-![[Untitled 18 1.png|300]]
+![[Untitled 18 1.png|200]]
 
-![[Untitled 19 1.png]]
+![[Untitled 19 1.png|300]]
 
 ## Policy approximation
 **Policy approximation** work by assigning using a number of weights ($w$) that is way less than the number of states, and our goal is to find a value function ($\hat v$)
@@ -242,4 +241,3 @@ $\overline{\mathrm{VE}}$ for non linear function may converge to a local minima,
 
 ![[screenshot_2022-09-27_00-50-53 1.png|400]]
 
-===
