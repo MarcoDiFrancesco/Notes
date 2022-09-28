@@ -30,8 +30,7 @@ Exam:
     - Quiz 2
     - Exercise 2: 12h
 - Lecture 3
-    - Readings 5 chapt: 9-9.3
-    - Readings 2 chaps: 10-10.1
+    - Readings 4 chapt: 2h, 9-9.3 + 10-10.1
     - Quiz 3
     - [ ] Exercise 3
 - Lecture 4
