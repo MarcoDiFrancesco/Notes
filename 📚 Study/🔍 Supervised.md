@@ -10,7 +10,7 @@ Grading:
 ## Schedule
 - Lecture 1: 2h
     - Quiz 1: 3h
-- [ ]  Lecture 2: ~2h
+- [ ]  Lecture 2: 1 hour + ???
 - [ ]  Lecture 3: ~2h
 - [ ] Lecture 4: ~3h
     - [ ]  Quiz 2

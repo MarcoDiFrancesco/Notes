@@ -25,15 +25,18 @@ Exam:
     - Quiz 1
     - Exercise 1: 9h
 - Lecture 2
-    - [ ] Readings 5 chapt: ~3h, 5-5.4, 5.6
-    - [ ] Readings 5 chapt: ~3h, 6-6.5
+    - [ ] Readings 5 chapt: 3h, 5-5.4, 5.6
+    - [ ] Readings 5 chapt: 3h, 6-6.5
     - Quiz 2
     - Exercise 2: 12h
 - Lecture 3
-    - [ ] Readings 5 chapt: 9-9.3
-    - [ ] Readings 2 chaps: 10-10.1
-    - [ ] Quiz 3
-    - Exercise 3: 12h
+    - Readings 5 chapt: 9-9.3
+    - Readings 2 chaps: 10-10.1
+    - Quiz 3
+    - [ ] Exercise 3
+- Lecture 4
+    - [ ] Quiz 4
+    - Exercise 4: ~10h
 
 
 ## Notes
