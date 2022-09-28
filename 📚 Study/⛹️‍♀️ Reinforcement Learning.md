@@ -240,5 +240,6 @@ $\overline{\mathrm{VE}}$ for non linear function may converge to a local minima,
 
 **State aggregation** is used for generalization where states are grouped together to speedup the process
 
-![[Pasted image 20220927005055.png]]
+![[screenshot_2022-09-27_00-50-53 1.png|400]]
 
+===
