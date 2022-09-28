@@ -42,6 +42,8 @@ $$
 $$
 ![Untitled](Untitled%2022.png)
 
+![[Untitled 22.png]]
+
 **State (S)** is the information used for the decision, e.g. position where I’m am in the grid
 
 **Environment** comprises everything outside the agent

@@ -227,4 +227,3 @@ $$
 **Nested cross-validation** is used to imrpove K-Fold cross validation by...
 
 ![[screenshot_2022-09-27_11-46-02.png]]
-===
