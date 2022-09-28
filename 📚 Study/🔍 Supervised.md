@@ -156,7 +156,7 @@ $$
 
 A class (C) is **PAC-learnable** if there exists an agorithm (A) that given a training sample has a generalization error that satisfies
 
-generalization error (R)
+generalization error ($R$)
 hypothesis ($h_S$)
 training samples (S) where $S = ((x_1, C(x_1)), ..., (x_m , C(x_m ))$ i.i.d from D
 ε level of error, e.g. ε=0.1 to get 10% error
