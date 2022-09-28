@@ -26,8 +26,8 @@ Assignments:
 - [ ] Online lecture 2 ~1h
 - [ ] Online lecture 3 ~1h
 -   Group assignment
-    -   Group Phase 1: ~6h
-    - [ ] Group Phase 2: ? ~6 hours
+    -   Group Phase 1: 6h
+    - [ ] Group Phase 2: ~6 hours
 -   Individual: 23 Oct
     - [ ] Check out what it is ~1h
 

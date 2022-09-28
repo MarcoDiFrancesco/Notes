@@ -214,7 +214,8 @@ Excess error $R^*$ can be decomposed in 2 errors
 - estimation error: $\epsilon_{estimation}=R(h)-R(h^*)$ is known as variance
 - approximation error: $\epsilon_{approximation}=R(h^*)-R^*$ is known as bias
 
-![[Pasted image 20220927104541.png]]
+![[screenshot_2022-09-27_10-45-39.png]]
+
 Error?
 $$
 R(h)=R^{\star}+\epsilon_{appro x i m a t i o n}+\epsilon_{e s t i m a t i o n}
@@ -225,4 +226,5 @@ $$
 
 **Nested cross-validation** is used to imrpove K-Fold cross validation by...
 
-![[Pasted image 20220927114622.png]]
+![[screenshot_2022-09-27_11-46-02.png]]
+===
