@@ -1,4 +1,4 @@
-# 🏢 Digital Business and
+# 🏢 Digital Business
 [MyCourses](https://mycourses.aalto.fi/course/view.php?id=37876&section=1) (login to see links)
 [EITOnline](https://ieonline.eitdigital.eu/my/)
 [Drive](https://drive.google.com/drive/folders/19rQX8E3LLSMw64Dg2H3reNLYqgbI9P1S) group assignments
