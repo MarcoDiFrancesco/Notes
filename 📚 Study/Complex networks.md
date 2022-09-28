@@ -37,15 +37,16 @@ Link = edge, node = vertex, network = graph
 
 **Multigraph** is a network with self-loops and multiple edges
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled.png)
+![[📚 Study/Complex networks/Untitled.png]]
+![Untitled](Complex%20networks/Untitled.png)
 
 **Degree** (k) is the number of neighborns of a node
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%201.png)
+![Untitled](Complex%20networks/Untitled%201.png)
 
 **Average degree** ⟨k⟩ of a network is measured as
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%202.png)
+![Untitled](Complex%20networks/Untitled%202.png)
 
 **Degree distribution** (P) measures the probabily that a random node has a certain degree (k), if the distribution is real we consider interval $[k_i, k_{i+1}]$
 
@@ -53,19 +54,19 @@ Link = edge, node = vertex, network = graph
 
 **Edge density** (ρ) is the number of edges compared to a funnly connected network
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%203.png)
+![Untitled](Complex%20networks/Untitled%203.png)
 
 **Clustering coefficient** (c) of a node (i, v in the example) is the number of neighborns (k, 4 in the example) connected together (E, 1 in the example)
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%204.png)
+![Untitled](Complex%20networks/Untitled%204.png)
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%205.png)
+![Untitled](Complex%20networks/Untitled%205.png)
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%206.png)
+![Untitled](Complex%20networks/Untitled%206.png)
 
 **Transitivity** measures the clustering coefficient globabally, but it’s not exactly the average clusering coefficient
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%207.png)
+![Untitled](Complex%20networks/Untitled%207.png)
 
 **Walk** (path) is a sequence of vertices where each consecutive pair is connected by an edge
 
@@ -79,7 +80,7 @@ Link = edge, node = vertex, network = graph
 
 **K-regular graphs** are networks where all nodes have degree k
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%208.png)
+![Untitled](Complex%20networks/Untitled%208.png)
 
 ## Lecture 2
 
@@ -91,16 +92,16 @@ Different ways of writing the expected value
 
 $\langle f(x) \rangle = \sum f(x)p(x)) = E(f(x))$
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%209.png)
+![Untitled](Complex%20networks/Untitled%209.png)
 
 Because k is going to infinity then if the power is <0 then it’s a constant, otherwise infinite
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%2010.png)
+![Untitled](Complex%20networks/Untitled%2010.png)
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%2011.png)
+![Untitled](Complex%20networks/Untitled%2011.png)
 
 If we have money it means we are going to make more money, a big city is likely to attract more people
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%2012.png)
+![Untitled](Complex%20networks/Untitled%2012.png)
 
-![Untitled](Complex%20networks%20efecc7258aba435e8cc14d8bd667fd73/Untitled%2013.png)
+![Untitled](Complex%20networks/Untitled%2013.png)
