@@ -16,6 +16,9 @@ Grading:
     - [ ]  Quiz 2
     - [ ]  Quiz 3
 
+## Quiz 2 answers
+a) It is possible to run the algorithm and obtain a hypothesis with only 50% accuracy
+
 ## Notes
 ## Machine learning
 **Machine Learning** is the study of algorithms that: at some task T, improve their performance P, with experience E. A well-defined learning task is given by a triplet $<T, P, E>$. Learning is about generalizing from the training data to un unseen target domain.
