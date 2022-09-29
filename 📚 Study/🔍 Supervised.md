@@ -17,11 +17,9 @@ Grading:
     - [ ]  Quiz 3
 
 ## Quiz 2 answers
-1
-a) It is possible to run the algorithm and obtain a hypothesis with only 50% accuracy
-
-2
-b) 27 more samples
+1 - a) it is possible to run the algorithm and obtain a hypothesis with only 50% accuracy
+2 - b) 27 more samples
+3 - b) It is not possible to shatter any collection of five data points with the classifier
 
 ## Notes
 ## Machine learning
