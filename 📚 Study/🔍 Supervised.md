@@ -9,18 +9,17 @@ Grading:
 
 ## Schedule
 - Lecture 1: 2h
-    - Quiz 1: 3h
-- [ ]  Lecture 2: 1 hour + ???
-- [ ]  Lecture 3: ~2h
+	- Quiz 1: 3h
+- [ ] Lecture 2: 1 hour + ???
+- [ ] Lecture 3: ~2h
 - [ ] Lecture 4: ~3h
-    - [ ]  Quiz 2
-    - [ ]  Quiz 3
+    - Quiz 2: 3h
 - [ ] Lecture 5
-- Lecture 6
+- Lecture 6: 30 Sep
+	- Quiz 3
 - Lecture 7
 - Lecture 8
-- Lecture 9
-- Lecture 10
+	- Quiz 4
 
 ## Notes
 ## Machine learning
