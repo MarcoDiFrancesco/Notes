@@ -8,5 +8,5 @@ Increases zoom both from .math and .math-block
 e.g. 140% + 120%
 */
 .math-block > mjx-container > mjx-math {
-  font-size: 120% !important;
+  font-size: 110% !important;
 }

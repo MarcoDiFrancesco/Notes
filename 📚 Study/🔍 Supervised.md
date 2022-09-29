@@ -16,14 +16,9 @@ Grading:
     - [ ]  Quiz 2
     - [ ]  Quiz 3
 
-## Quiz 2 answers
-1 - a) it is possible to run the algorithm and obtain a hypothesis with only 50% accuracy
-2 - b) 27 more samples
-3 - b) It is not possible to shatter any collection of five data points with the classifier
-
 ## Notes
 ## Machine learning
-**Machine Learning** is the study of algorithms that: at some task T, improve their performance P, with experience E. A well-defined learning task is given by a triplet $<T, P, E>$. Learning is about generalizing from the training data to un unseen target domain.
+**Machine Learning** is the study of algorithms that: at some task T, improve their performance P, with experience E. A well-defined learning task is given by a triplet $\langle T, P, E \rangle$. Learning is about generalizing from the training data to un unseen target domain.
 
 X is the input and Y is the output
 
@@ -49,7 +44,7 @@ $$
 
 **Overfitting** is the problem that comes when the model is able to perform really well in training data, but badly in validation data. **Underfitting** is when we find a local minima.
 
-![[Untitled 4.png]]
+![[Untitled 4.png|600]]
 
 **Feature** are the parameters of the input, in ML the features are handcrafted and we try to find the best values (not maximum) values for each feature.
 
@@ -99,9 +94,9 @@ Binary classification includes:
 - **Version space**: if classifies correctly all samples
 - **Margin** (h) is the minimum distance between S and G
 
-![[Untitled 8.png|400]]
+![[Untitled 8.png|300]]
 
-![[Untitled 9.png|400]]
+![[Untitled 9.png|300]]
 
 ## Confusion matrix
 **Confusion matrix** is a kind of contingency table used to visualize performance of a supervised learning algorithm
@@ -142,21 +137,17 @@ TPR can be replaced by Precision, so that in the rare diseese examle works bette
 ## Learning/Genearlization
 
 **Generalization error** (R) of an hypothesis class (h)
-
 $$
 R(h)=\mathbb{E}_{(\mathbf{x},y)\sim D}\left[\,L(h(\mathbf{x}),y\,)\,\right]
 $$
-
 **Independent and identically distributed** (i.i.d) is an assumption where we generate data with the random variables having the same probability distribution
 
 Given:
 - Concept class (C) that needs to be learned $C: X \rightarrow Y$
 - Unknown probability distribution (D)
-
 $$
 R(h)=\mathbb{E}_{x\sim D}\left[L_{0/1}(h(x),C(x))\right]=\operatorname*{Pr}_{x\sim D}(h(x)\neq C(x))
 $$
-
 **Probably Approximate Correct (PAC)** is a learning framework with the goal of learning an hypothesis with a low generalization error
 
 A class (C) is **PAC-learnable** if there exists an agorithm (A) that given a training sample has a generalization error that satisfies
@@ -166,11 +157,9 @@ hypothesis ($h_S$)
 training samples (S) where $S = ((x_1, C(x_1)), ..., (x_m , C(x_m ))$ i.i.d from D
 ε level of error, e.g. ε=0.1 to get 10% error
 1-δ level of confidence, e.g. δ=0.05 for the algorithm to fail 5% of the times
-
 $$
 Pr(R(h_S ) ≤ \epsilon) ≥ 1 − δ
 $$
-
 **Efficient** PAC learnable is an algorithm that runs in polynomial time
 
 epsilon and *delta meaning*:
