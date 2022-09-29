@@ -15,6 +15,12 @@ Grading:
 - [ ] Lecture 4: ~3h
     - [ ]  Quiz 2
     - [ ]  Quiz 3
+- [ ] Lecture 5
+- Lecture 6
+- Lecture 7
+- Lecture 8
+- Lecture 9
+- Lecture 10
 
 ## Notes
 ## Machine learning
