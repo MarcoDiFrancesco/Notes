@@ -164,7 +164,7 @@ $$
 
 epsilon and *delta meaning*:
 
-![[Untitled 18.png]]
+![[Untitled 18.png|400]]
 
 $A_c$ is the event where $R’$ misses at least one rectangle, Each $r_i$ has probability mass $\epsilon / 4$ and probability of missing one rectangle $1 − \epsilon/4$, so with m samples the probability of missing at least one rectangle is:
 
