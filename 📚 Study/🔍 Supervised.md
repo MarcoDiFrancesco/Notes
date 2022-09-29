@@ -6,7 +6,6 @@ Grading:
 - 30% exercises
 - 70% exam
 
-
 ## Schedule
 - Lecture 1: 2h
 	- Quiz 1: 3h
