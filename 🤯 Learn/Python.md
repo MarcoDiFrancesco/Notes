@@ -42,12 +42,3 @@ Create super user: `createsuperuser`
 Database commands:
 - `makemigrations` to create migration files
 - `migrate` to update database with migration files
-
-## Linting
-Mypy
-- [x] Check mypy in vscode
-
-Check out prospector https://github.com/PyCQA/prospector
-
-![Image](https://i.imgur.com/XbgDxUv.png)
-
