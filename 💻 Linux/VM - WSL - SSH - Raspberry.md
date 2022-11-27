@@ -10,6 +10,9 @@
     - `PasswordAuthentication no`
 - Docker, docker-compose, set permissions [link](https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo)
 
+Privoxy used as proxy
+
+
 ## VirtualBox
 
 Guest additions are installed using *virtualbox-guest-iso* package.
