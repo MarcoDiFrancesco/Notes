@@ -1,16 +1,3 @@
-# Shell - Terminal
-## Terminal emulator
-*urxvt* is the program I'm currently using as a terminal emulator
-
-*urxvtd* demon is sourced on *.zshenv*, *urxvtc* is opened to get a new terminal emulator.
-
-## Shell
-*extra/zsh* is the package used as shell
-
-*aur/oh-my-zsh-git* is a zsh extension
-
-*/usr/share/oh-my-zsh/custom/plugins/* is the directory containing plugins
-
 ## WSL
 oh-my-zsh installed in *$HOME/.oh-my-zsh* using:
 

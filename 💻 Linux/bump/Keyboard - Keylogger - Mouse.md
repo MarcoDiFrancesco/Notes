@@ -1,4 +1,4 @@
-# Keyboard - Mouse
+# Keyboard - Keylogger - Mouse
 ## Keyboard
 Script: *script/keyboard*
 *xdotool* used to toggle caps
@@ -29,15 +29,17 @@ Keyboard map in *~/.config/xkb/map* generated with
 Default folders can be found in */usr/share/X11/xkb* and other folders can be sourced using -I (in the following command)
 `xkbcomp -I$HOME/.config/xkb ~/.config/xkb/map $DISPLAY`
 
+## Key logger
+*logkeys-start* script
+Started from `systemctl logkeys`
+
+
 ## Mouse
 Tap-to-click was enabled in */etc/X11/xorg.conf.d*
 List devices options: `sudo libinput list-devices`
 Translate options (https://man.archlinux.org/man/libinput.4)
 
-## Key logger
-*logkeys-start* script
-Started from `systemctl logkeys`
-
+## Archive
 #### Archive mouse
 - **Archive** Emoji picker
     Package `community/rofimoji` set in mod+shift+d shortcut

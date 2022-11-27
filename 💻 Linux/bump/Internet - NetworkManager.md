@@ -1,4 +1,5 @@
 # Internet - NetworkManager
+
 ## Network manager
 Avoid hostname change
 */etc/NetworkManager/NetworkManager.conf*
@@ -8,25 +9,9 @@ hostname-mode=none
 ```
 
 ## Network tools
-
-Network tools are offered by (preinstalled) *iproute2* package that replaces arp, ifconfig, route. *ss* package replaces netstat (from [wiki](https://wiki.archlinux.org/index.php/Network_configuration#net-tools)).
+*core/iproute2* (preinstalled): replaces arp, ifconfig, route.
+*ss* package replaces netstat
 
 `ip addr` to get ip
 `ss -at` to get all tcp connections
 `lsof` is used to get open files, `-p :5432` to get port
-
-## VPN FBK
-Server URL: https://sslgate.fbk.eu
-User: *mdifrancesco*
-
-### VPN Connection
-Script: *vpn-fbk*
-
-Manually:
-`sudo systemctl start pulsesecure`
-`/opt/pulsesecure/bin/pulseUI` without sudo
-
-#### Archive: Pulse Secure cli
-CLI requires the server to be truested, this means having the certificate installed with */opt/pulsesecure/bin/certificate_installer.sh*
-
-I was unable to install the certificate through this command
