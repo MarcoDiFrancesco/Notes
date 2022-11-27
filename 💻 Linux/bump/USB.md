@@ -1,8 +1,5 @@
-# USB - File system - Encryption
-Link:
-- [[VM - WSL]]
-- [[]]
-## Pendive - USB
+# USB
+
 Create martitions: `sudo cfdisk /dev/sdC`
 
 - New > primary (dos)

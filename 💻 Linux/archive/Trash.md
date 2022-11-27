@@ -1,9 +1,5 @@
 # Trash
 
-Type: System
-
-Trash is managed using the gnome specification.
-
 ## Trashed file location
 (from [stackoverflow](https://askubuntu.com/a/877594/877408)) The trashed files will be put on:
 

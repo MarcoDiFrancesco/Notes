@@ -32,4 +32,4 @@ com.oplus.games
 
 ## Frida
 Frida server on:
-[[Software - Programs - Viewer - Editor]]
+[[💻 Linux/archive/SSL Pinning]]
