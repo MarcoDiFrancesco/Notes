@@ -1,6 +1,6 @@
 # Python
 ## Python
-Installation [[VM - WSL - SSH - Raspberry#Python]]
+Installation [[VM - WSL#Python]]
 
 ### Modules for data manipulation
 **NumPy** is a python library for scientific computing containing basic operations such as sorting indexing etc

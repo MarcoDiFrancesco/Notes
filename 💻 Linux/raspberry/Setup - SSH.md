@@ -1,0 +1,10 @@
+# Setup - SSH
+- Install image with Rufus
+- Crete empty file */boot/ssh*
+- Install vim, ranger, tmux
+- Edit */etc/dhcpcd.conf*
+    - `static ip_address=192.168.1.100/24`
+    - `static routers=192.168.1.1`
+- Edit */etc/ssh/sshd_config*
+    - `PasswordAuthentication no`
+- Docker, docker-compose, set permissions [link](https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo)

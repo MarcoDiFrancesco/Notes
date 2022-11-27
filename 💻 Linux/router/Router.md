@@ -13,8 +13,7 @@ Location: Network -> NAT -> Inoltro Porta
 
 Used for:
 - [[Privoxy]]
-- [[VPN - Internet]]
-
+- [[VPN]]
 
 ## Backup
 Location: Manutenzione -> Salvataggio/Ripristino

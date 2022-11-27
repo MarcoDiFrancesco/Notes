@@ -1,4 +1,4 @@
-# VPN - Internet
+# Internet - NetworkManager
 ## Network manager
 
 Network manager installed via *extra/networkmanager*. There are 2 ways of using network manager, `nmtui` for the text ui, `nmcli` for the control line interface.

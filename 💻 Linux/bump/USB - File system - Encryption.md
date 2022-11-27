@@ -1,5 +1,5 @@
 # USB - File system - Encryption
-Link: [[VM - WSL - SSH - Raspberry]]
+Link: [[VM - WSL]]
 
 ## Pendive - USB
 Create martitions: `sudo cfdisk /dev/sdC`
