@@ -3,8 +3,6 @@
 Files managed in home directory with bare repostiory.
 Root files not managed by any program (e.g. Chezmoi) becase they do not support by default root files ([link](https://github.com/twpayne/chezmoi/discussions/1510#discussioncomment-1453461)), and most of the times I don't want to have all root files copied in the new system.
 
-
-
 ## ArchInstall
 IMPORTANT: `lsblk` check for /dev/sda ELSE edit
 `archinstall --config https://pastebin.com/raw/uhWrVskh`

@@ -1,5 +1,5 @@
 # BTRFS
-### Btrfs installation
+### Installation
 To mount btrfs subvolume from live use the preinstalled crypsetup command:
 
 ```bash
@@ -13,7 +13,7 @@ After the installation in case the system is broken and another snapshot has bee
 
 Another possibility to check the files inside a snapshot is just mounting it in a directory.
 
-### Btrfs usage
+### Usage
 For btrfs utilities *core/btrfs-progs* is installed in the system (not in live) and usable with the *btrfs* command.
 
 `sudo btrfs subvolume snapshot / /snapshot/base` to **create snapshot**
@@ -33,4 +33,4 @@ Filename    /home
 
 `sudo btrfs filesystem usage /` to get the **disk usage**, specifying */* or */var/log* is the same becuase they are installed in the same disk (nvme one).
 
-Snapshots are made in using a root service in crontab: [[Crontab - Events - Udev]]
+Snapshots are made in using a root service in crontab: [[Events - Udev]]
