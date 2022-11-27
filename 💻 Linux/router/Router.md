@@ -9,7 +9,7 @@ DiFra WiFi
 
 ## Port forwarding
 Location: Network -> NAT -> Inoltro Porta
-
+![](https://i.imgur.com/RVyJLMe.png)
 
 ## Backup
 Location: Manutenzione -> Salvataggio/Ripristino
