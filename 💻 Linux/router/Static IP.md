@@ -1,0 +1,2 @@
+# Static IP
+WindTre Router
