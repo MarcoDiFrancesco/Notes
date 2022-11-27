@@ -12,7 +12,7 @@ Location: Network -> NAT -> Inoltro Porta
 ![](https://i.imgur.com/RVyJLMe.png)
 
 Used for:
-- [[Privoxy]]
+- [[Proxy - Privoxy]]
 
 ## Backup
 Location: Manutenzione -> Salvataggio/Ripristino
