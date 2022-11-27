@@ -1,14 +1,7 @@
 # Internet - NetworkManager
 ## Network manager
-
-Network manager installed via *extra/networkmanager*. There are 2 ways of using network manager, `nmtui` for the text ui, `nmcli` for the control line interface.
-
-`nmcli connection` to get connections list
-
-`nmcli connection show logic` to get connections details (`--show-secrets` to get password)
-
-To avoid Netowork Manager to change hostname, write into */etc/NetworkManager/NetworkManager.conf*
-
+Avoid hostname change
+*/etc/NetworkManager/NetworkManager.conf*
 ```bash
 [main]
 hostname-mode=none
