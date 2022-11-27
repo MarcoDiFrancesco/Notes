@@ -4,8 +4,6 @@
 **Bare repostiory**: files managed in home directory with .
 **Chezmoi**: Root files not managed by any program (e.g. Chezmoi) becase they do not support by default root files ([link](https://github.com/twpayne/chezmoi/discussions/1510#discussioncomment-1453461)), and most of the times I don't want to have all root files copied in the new system.
 
-Achive my script: [[ArchInstall]]
-
 ### Backup before clean
 - about:config changed settings
 
@@ -35,6 +33,8 @@ Anki (for extensions):
 - ~/.local/share/Anki2
 
 ### Manual installation
+Achive my script: [[ArchInstall]]
+
 Format disk: `cfdisk /dev/nvme0n1`
 
 Decrypt partition and mount it
@@ -67,69 +67,35 @@ cryptroot       UUID=0000000000-0000-0000-0000-0000-0000000000   luks,discard
 Edit hooks line in */mnt/etc/mkinitcpio.conf* (mkinitcpio was run on installation of the kernel package with pacstrap, so it's already generated)
 
 ```jsx
-HOOKS=(base udev autodetect **keyboard keymap** consolefont modconf block **encrypt** filesystems fsck)
+HOOKS=(base udev autodetect keyboard keymap consolefont modconf block encrypt filesystems fsck)
 ```
 
 Chroot in system
-
 `arch-chroot /mnt`
 
-Edit */etc/locale.gen* and uncomment *en_US.UTF-8 UTF-8*
+Edit */etc/locale.gen* and uncomment
+*en_US.UTF-8 UTF-8*
 
 Generate locale
-
 `locale-gen`
 
 Set locale (not the same as above)
-
 `localectl set-locale LANG=en_US.UTF-8`
 
-- Encryption
-
-NOT DONE FOR NOW Set boot loader parameters, in */etc/default/grub* add command in 5th line
-
-`GRUB_CMDLINE_LINUX="cryptdevice=/dev/nvme0n1p2:cryptroot"`
-
 Generate init frames, *-P* to regenerate all presets, *-p linux* to regenerate only linux preset, already done when pacstrapping *linux-firmware* (or maybe *linux*)
-
 `mkinitcpio -P`
 
-Regenerate grub, *--target=x86_64-efi* is set by default, *--bootloader-id=GRUB* I don't know what it does
-
+Regenerate grub
+- *--target=x86_64-efi* is set by default
+- *--bootloader-id=GRUB* I don't know what it does
+-  *--efi-directory* is required
 `grub-install --efi-directory=/boot`
-
-grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
-
 `grub-mkconfig --output /boot/grub/grub.cfg`
 
 Set password for root
-
 `passwd`
 
 Keep arch install date
-
 `cp /pendrive/pacman.log /var/log/pacman.log`
 
 Restart computer and exit from live
-
-- **Archive** Installation with script
-
-#### Archive Installation with script
-
-Install git on live
-
-`pacman -Sy git`
-
-Make partition with BTRFS (-c for encryption by default)
-
-`/pendrive/setup-base.sh`
-
-Keep arch install date
-
-`cp /pendrive/pacman.log /var/log/pacman.log`
-
-Restart computer and exit from live
-
-
-#### Archive Partitions
-![](https://i.imgur.com/yXl9W6T.png)
