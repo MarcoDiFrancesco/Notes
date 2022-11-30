@@ -32,6 +32,13 @@ Firefox:
 Anki (for extensions):
 - ~/.local/share/Anki2
 
+sudo visudo (command to edit /etc/sudoers):
+```sh
+# Ask password every n minutes (default is 5)
+Defaults timestamp_timeout=30
+```
+
+
 ### Manual installation
 Achive my script: [[ArchInstall]]
 

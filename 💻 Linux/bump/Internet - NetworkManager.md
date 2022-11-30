@@ -1,5 +1,3 @@
-# Internet - NetworkManager
-
 ## Network manager
 Avoid hostname change
 */etc/NetworkManager/NetworkManager.conf*
