@@ -1,4 +1,3 @@
-# Setup - SSH
 - Install image with Rufus
 - Crete empty file */boot/ssh*
 - Install vim, ranger, tmux

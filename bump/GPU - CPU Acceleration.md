@@ -1,4 +1,3 @@
-# GPU - CPU Acceleration
 VAAPI and VDPAU are set in `/etc/environment`
 Currently using Optimus with VirtualGL and Primus technologies
 

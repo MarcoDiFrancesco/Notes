@@ -1,5 +1,3 @@
-# File manager - XDG
-## xdg
 Global .desktop files: */usr/share/applications*
 Personalized .desktop files: *~/.local/share/applications/*
 

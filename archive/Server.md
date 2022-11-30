@@ -1,4 +1,3 @@
-# Server
 Main server choises:
 - **Nginx**: 15000 static files per second
 - **Apache**: 3000 static files per second

@@ -1,5 +1,3 @@
-# USB
-
 Create martitions: `sudo cfdisk /dev/sdC`
 
 - New > primary (dos)

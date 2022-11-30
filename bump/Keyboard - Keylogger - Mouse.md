@@ -1,4 +1,3 @@
-# Keyboard - Keylogger - Mouse
 ## Keyboard
 Script: *script/keyboard*
 *xdotool* used to toggle caps

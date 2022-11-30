@@ -1,4 +1,3 @@
-# Latex
 nothing (normal):
 $$
 RQSZ

@@ -1,4 +1,3 @@
-# Git
 ## New commands
 
 _git checkout_ has been splitted to `git switch` and `git restore` [link](https://stackoverflow.com/a/57266005/7924557)

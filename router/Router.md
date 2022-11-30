@@ -1,5 +1,3 @@
-# Router
-
 ## Authention
 ```
 DiFra WiFi

@@ -1,4 +1,3 @@
-# Events - Udev
 Config: */etc/udev/rules.d*
 
 *udev* is a program to manage events like monitor or mouse plug-in. It runs short script (as root) when an event occures, if the previous script did not finish does not run the following one. Because of this, it was not possible to run polybar on monitor plug-in, if polybar scripts were run in background it was closing the bars after few moments that the script finished (~1 second).
