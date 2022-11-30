@@ -9,22 +9,21 @@ _git checkout_ has been splitted to `git switch` and `git restore` [link](https:
 
 `git reset` unstage all files
 -   `<path>` unstage file
--   `--hard` **DISCARD** all files, both in staged and not
+-   `--hard` **discard** all files, both in staged and not
 -   `--hard <path>`, `--soft <path>` do not work
 
 `git restore <path>`
--   (`--worktree` default) **DISCARD** specified file changes if unstaged (from _git checkout -- foo_)
+-   (`--worktree` default) **discard** file changes if unstaged (from _git checkout -- foo_)
 -   `--staged` unstage file (from the old _git reset file_)
 -   `--worktree --staged` unstage and discard changes
 
 `git rm <file>` remove physically
 -   `--cached` just from index
 
-## Branch
-`git push origin --delete master` delete branch
+## Delete
+`git branch --delete master`
+`git push origin --delete master`
 -   `--force` if was not merged
-
-![](https://i.imgur.com/9lBrILX.png)
 
 ## Rebase
 `git rebase master` updates branch to last commit
