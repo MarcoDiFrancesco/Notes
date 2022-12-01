@@ -6,7 +6,7 @@ DiFra WiFi
 
 ## Port forwarding
 Location: Network -> NAT -> Inoltro Porta
-Used for [[Proxy - Privoxy]]
+- 8118 for [[Proxy - Privoxy]]
 ![](https://i.imgur.com/ANwAdPT.png)
 
 ## Backup
