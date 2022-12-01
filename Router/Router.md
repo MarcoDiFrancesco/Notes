@@ -4,7 +4,6 @@ DiFra WiFi
 4mostridaconche
 ```
 
-
 ## Port forwarding
 Location: Network -> NAT -> Inoltro Porta
 Used for [[Proxy - Privoxy]]
