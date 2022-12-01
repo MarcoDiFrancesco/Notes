@@ -7,10 +7,8 @@ DiFra WiFi
 
 ## Port forwarding
 Location: Network -> NAT -> Inoltro Porta
-![](https://i.imgur.com/RVyJLMe.png)
-
-Used for:
-- [[Proxy - Privoxy]]
+Used for [[Proxy - Privoxy]]
+![](https://i.imgur.com/ANwAdPT.png)
 
 ## Backup
 Location: Manutenzione -> Salvataggio/Ripristino
