@@ -1,4 +1,3 @@
-# ADB - Android - Phone
 ## ADB
 Connect: `adb shell`
 List apps: `pm list packages`, `-e` and `-d` for enabled/disabled apps
