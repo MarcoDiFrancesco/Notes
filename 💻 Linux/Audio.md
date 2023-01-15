@@ -1,5 +1,5 @@
-Options:
-![[Pasted image 20230114105858.png]]
+Options (Analog, Digital Stereo): Reddit says they are more or less the same.
+- IEC958 is just a stardard that might be even removed.
+- Analog supports everything that IEC958 supports.
 
-**Computer speakers**: work only with Analog, Digital IEC958 not working
-Rode NT-USB Mini: 
+![[Pasted image 20230114105858.png]]
