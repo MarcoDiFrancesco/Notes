@@ -30,6 +30,9 @@ Firefox:
 Anki (for extensions):
 - ~/.local/share/Anki2
 
+Fonts (for krunner-emoji)
+- /etc/fonts/local.conf
+
 sudo visudo (command to edit /etc/sudoers):
 ```sh
 # Ask password every n minutes (default is 5)
