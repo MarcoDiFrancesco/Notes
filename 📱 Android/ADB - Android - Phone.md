@@ -12,7 +12,7 @@ com.android.stk
 
 # Google assistant shortcut from bottom
 com.google.android.googlequicksearchbox
-# Google assistant because was not working without the app above
+# Google assistant also, since was not working without the app above
 com.google.android.apps.googleassistant
 
 # Oppo Android 11
