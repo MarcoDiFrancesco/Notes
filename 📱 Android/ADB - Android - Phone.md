@@ -3,9 +3,11 @@ Connect: `adb shell`
 List apps: `pm list packages`, `-e` and `-d` for enabled/disabled apps
 Disable: `pm disable-user --user 0 com.example`
 Enable: `pm enable com.example`
+
+Get open app name: `dumpsys activity activities | grep mResumedActivity | cut -d "{" -f2 | cut -d ' ' -f3 | cut -d "/" -f1`
 App version: `dumpsys package com.example | grep versionName`
 
-Disabled packages:
+Known packages (Oppo/Samsung):
 ```shell
 # Sim Toolkit - e.g. WindTre Toolkit
 com.android.stk
