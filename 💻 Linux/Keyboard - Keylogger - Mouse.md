@@ -10,29 +10,12 @@ International **AltGr** (*altgr-intl*) is a variant switch the role of the AltGr
 
 ![](https://i.imgur.com/AJrhUuL.png)
 
-### Personalized
-Script: *~/.config/xkb/map*
-Set on keyboard script, startuped in *i3*.
+### Personalized shortcuts
 
-Keyboard map in *~/.config/xkb/map* generated with
-`setxkbmap -layout us -variant altgr-intl -print > map-tmp`
-
-![](https://i.imgur.com/nljZu08.png)
-
-**Keycodes**
-- numbers (79, 118) are visible with `xev`
-- values (RGHT, AD08) in file */usr/share/X11/xkb/keycodes/evdev*
-
-**Symbols** (0, a, Right) in `xev`
-
-Default folders can be found in */usr/share/X11/xkb* and other folders can be sourced using -I (in the following command)
-`xkbcomp -I$HOME/.config/xkb ~/.config/xkb/map $DISPLAY`
 
 ## Key logger
 *logkeys-start* script
 Started from `systemctl logkeys`
-
-
 ## Mouse
 Tap-to-click was enabled in */etc/X11/xorg.conf.d*
 List devices options: `sudo libinput list-devices`
@@ -51,3 +34,21 @@ xmodmap: changed directly in *setxkbmap*
 *xbindkeys* changed in favor of *sxhkd*, it allows to specify multiple keybinding to the same command.
 
 *sxhkd* changed in favor of *i3* config
+
+#### Archive personalized shortcuts
+Script: *~/.config/xkb/map*
+Set on keyboard script, startuped in *i3*.
+
+Keyboard map in *~/.config/xkb/map* generated with
+`setxkbmap -layout us -variant altgr-intl -print > map-tmp`
+
+![](https://i.imgur.com/nljZu08.png)
+
+**Keycodes**
+- numbers (79, 118) are visible with `xev`
+- values (RGHT, AD08) in file */usr/share/X11/xkb/keycodes/evdev*
+
+**Symbols** (0, a, Right) in `xev`
+
+Default folders can be found in */usr/share/X11/xkb* and other folders can be sourced using -I (in the following command)
+`xkbcomp -I$HOME/.config/xkb ~/.config/xkb/map $DISPLAY`
