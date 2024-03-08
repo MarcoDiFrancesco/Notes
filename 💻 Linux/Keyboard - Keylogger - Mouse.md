@@ -1,8 +1,4 @@
 ## Keyboard
-Script: *script/keyboard*
-*xdotool* used to toggle caps
-
-### Basic
 `setxkbmap -layout us -variant altgr-intl` to set "English (intl., with AltGr dead keys)"
 
 **International** layout (*intl*) changes the ~ ^ ' " into **dead keys**, keys that do not work until another key is typed.
@@ -11,18 +7,21 @@ International **AltGr** (*altgr-intl*) is a variant switch the role of the AltGr
 ![](https://i.imgur.com/AJrhUuL.png)
 
 ### Personalized shortcuts
-
-
+Program: *keyd*
+Script: */etc/keyd/default.conf*
+Enabled from: `systemctl keyd`
 ## Key logger
 *logkeys-start* script
 Started from `systemctl logkeys`
 ## Mouse
+Using KDE settings.
+
+## Archive
+#### Archive mouse
 Tap-to-click was enabled in */etc/X11/xorg.conf.d*
 List devices options: `sudo libinput list-devices`
 Translate options (https://man.archlinux.org/man/libinput.4)
 
-## Archive
-#### Archive mouse
 - **Archive** Emoji picker
     Package `community/rofimoji` set in mod+shift+d shortcut
 
@@ -36,6 +35,9 @@ xmodmap: changed directly in *setxkbmap*
 *sxhkd* changed in favor of *i3* config
 
 #### Archive personalized shortcuts
+Script: *script/keyboard*
+*xdotool* used to toggle caps
+
 Script: *~/.config/xkb/map*
 Set on keyboard script, startuped in *i3*.
 
