@@ -36,7 +36,6 @@ sudo visudo (command to edit /etc/sudoers):
 Defaults timestamp_timeout=30
 ```
 
-
 ### Manual installation
 Achive my script: [[ArchInstall]]
 
