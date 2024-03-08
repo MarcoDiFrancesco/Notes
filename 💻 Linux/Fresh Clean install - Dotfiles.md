@@ -14,6 +14,9 @@
 	- /var/log/logkeys/
 - /etc/X11/xorg.conf.d/
 
+Keyd:
+- /etc/keyd/default.conf
+
 Pacman:
 - /etc/pacman.conf
 - /etc/pacman.d/hooks
