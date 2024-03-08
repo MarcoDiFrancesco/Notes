@@ -1,12 +1,11 @@
-## Keyboard
+## Keyboard Layout
 `setxkbmap -layout us -variant altgr-intl` to set "English (intl., with AltGr dead keys)"
 
 **International** layout (*intl*) changes the ~ ^ ' " into **dead keys**, keys that do not work until another key is typed.
 International **AltGr** (*altgr-intl*) is a variant switch the role of the AltGr (alternate graph) key, requiring to click it in combination with ~ ^ ' " to enable a dead key
 
 ![](https://i.imgur.com/AJrhUuL.png)
-
-### Personalized shortcuts
+### Keyboard Shortcuts
 Program: *keyd*
 Script: */etc/keyd/default.conf*
 Enabled from: `systemctl keyd`
@@ -15,7 +14,6 @@ Enabled from: `systemctl keyd`
 Started from `systemctl logkeys`
 ## Mouse
 Using KDE settings.
-
 ## Archive
 #### Archive mouse
 Tap-to-click was enabled in */etc/X11/xorg.conf.d*

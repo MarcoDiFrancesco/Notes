@@ -1,9 +1,7 @@
-
 ## Desktop files
 .desktop files:
 - Global: */usr/share/applications*
 - User: *~/.local/share/applications/*
-
 ## XDG
 Commands:
 `xdg-open file` open a file
