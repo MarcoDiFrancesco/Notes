@@ -4,6 +4,7 @@
 
 ### Backup before clean
 - about:config changed settings
+- System Settings > Startup and Shutdown > Autostart
 
 ### Root files to be copied on post install
 - ~/.ssh
