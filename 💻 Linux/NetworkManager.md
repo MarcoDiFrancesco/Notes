@@ -13,3 +13,7 @@ hostname-mode=none
 `ip addr` to get ip
 `ss -at` to get all tcp connections
 `lsof` is used to get open files, `-p :5432` to get port
+
+# Log SSH accesses
+Check SSH attemps:
+`logwatch --detail low --service sshd --range today`
